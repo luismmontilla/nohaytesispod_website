@@ -1,0 +1,89 @@
+---
+title: "Nosotros"
+sidebar: false
+---
+
+# Nuestra misión
+
+Derribar los estereotipos que rodean a la ciencia en Latinoamérica, a través de la humanización de la figura del científico y el acercamiento a la diversidad de profesiones científicas desde una perspectiva casual.
+
+# Nuestra visión
+
+Ser un medio accesible a todo publico, inclusivo y ameno en el que los profesionales en ciencia puedan darse a conocer como personas integrales, y mostrar la diversidad de perfiles que existen para las carreras científicas en el mundo académico y laboral.
+
+# Nuestro equipo
+
+## Irina
+
+:::::{.columns}
+
+
+::: {.column width="47.5%"}
+
+![](gallery/irina_orig.jpeg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.​
+:::
+
+
+:::::
+
+## Rubén
+
+:::::{.columns}
+
+
+::: {.column width="47.5%"}
+
+![](gallery/ruben_orig.jpeg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.​
+:::
+
+:::::
+
+## Quique
+
+:::::{.columns}
+
+
+::: {.column width="47.5%"}
+
+![](gallery/quique_orig.jpeg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.​
+:::
+
+
+:::::
+
+## Luis Miguel "el gocho"
+
+:::::{.columns}
+
+
+::: {.column width="47.5%"}
+
+![](gallery/gocho_orig.jpeg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.​
+:::
+
+
+:::::

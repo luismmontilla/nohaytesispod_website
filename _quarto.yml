@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "De esto no hay tesis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: episodes.qmd
+        text: Episodios
+      - misc.qmd  
+      - href: https://ko-fi.com/nohaytesispod
+        text: Apoyanos
+      - href: contacto.qmd
+        text: Contacto
+      - about.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: instagram
+        href: https://twitter.com
+      - icon: mastodon
+        href: https://twitter.com
+      - icon: bluesky
+        href: https://twitter.com
+
+format:
+  html:
+    theme: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+
+
+

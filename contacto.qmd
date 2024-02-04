@@ -1,0 +1,9 @@
+---
+title: "Contacto"
+sidebar: false
+---
+
+# Nos encantaría escuchar tu opinión
+
+Puedes seguirnos en nuestras diferentes redes sociales o escribirnos al correo electrónico.
+
