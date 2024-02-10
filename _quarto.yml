@@ -26,7 +26,7 @@ website:
       - icon: bluesky
         href: https://bsky.app/profile/nohaytesispod.bsky.social
       - icon: rss
-        href: index.xml
+        href: episodes.xml
 
 format:
   html:
