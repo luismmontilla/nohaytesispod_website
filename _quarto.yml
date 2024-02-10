@@ -3,6 +3,7 @@ project:
 
 website:
   title: "De esto no hay tesis"
+  site-url: https://www.nohaytesispodcast.com/
   navbar:
     left:
       - href: index.qmd
@@ -11,19 +12,21 @@ website:
         text: Episodios
       - misc.qmd  
       - href: https://ko-fi.com/nohaytesispod
-        text: Apoyanos
+        text: Apóyanos
       - href: contacto.qmd
         text: Contacto
       - about.qmd
     tools:
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/NoHayTesisPod
       - icon: instagram
-        href: https://twitter.com
+        href: https://www.instagram.com/nohaytesispod/
       - icon: mastodon
-        href: https://twitter.com
+        href: https://mast.lat/@nohaytesispod
       - icon: bluesky
-        href: https://twitter.com
+        href: https://bsky.app/profile/nohaytesispod.bsky.social
+      - icon: rss
+        href: index.xml
 
 format:
   html:
