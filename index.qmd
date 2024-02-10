@@ -1,6 +1,8 @@
 ---
 title: "BIENVENIDOS"
 sidebar: false
+feed: true
+contents: episodes
 theme: darkly.scss
 ---
 
