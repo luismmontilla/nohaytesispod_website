@@ -4,6 +4,10 @@ project:
 website:
   title: "De esto no hay tesis"
   site-url: https://www.nohaytesispodcast.com/
+  twitter-card: true
+  favicon: favicon.ico
+  open-graph: true
+  cookie-consent: true
   navbar:
     left:
       - href: index.qmd
