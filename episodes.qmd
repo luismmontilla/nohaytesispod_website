@@ -2,12 +2,11 @@
 listing:
   contents: episodes/**/*.qmd
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [date, title, reading-time, description, categories]
+  fields: [date, title, reading-time, description, categories, image]
   feed: true
 page-layout: full
-title-block-banner: false
 ---
