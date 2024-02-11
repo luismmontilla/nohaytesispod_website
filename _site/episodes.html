@@ -30,8 +30,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
@@ -90,6 +93,22 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -190,15 +209,16 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Matemática,Venezuela" data-listing-date-sort="1658095200000" data-listing-file-modified-sort="1707601440243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="0" data-categories="Matemática,Venezuela" data-listing-date-sort="1658095200000" data-listing-file-modified-sort="1707609849224" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./episodes/e005/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="episodes/e005/e005.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 05 - De la estadística a los Oscars
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+1 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Matemática'); return false;">
@@ -209,8 +229,7 @@ Venezuela
 </div>
 </div>
 <div class="card-text listing-description">
-
-
+Pedro es matemático y si te has preguntando de qué sirven las…
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -221,15 +240,16 @@ Jul 18, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Química,Venezuela" data-listing-date-sort="1656885600000" data-listing-file-modified-sort="1707601455676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="1" data-categories="Química,Venezuela" data-listing-date-sort="1656885600000" data-listing-file-modified-sort="1707607662590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./episodes/e004/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="episodes/e004/e004.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 04 - De las nanopartículas al senderismo
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+1 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Química'); return false;">
@@ -240,8 +260,7 @@ Venezuela
 </div>
 </div>
 <div class="card-text listing-description">
-
-
+Jesús…
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -252,15 +271,16 @@ Jul 4, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Física,Venezuela" data-listing-date-sort="1655848800000" data-listing-file-modified-sort="1707600916215" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="2" data-categories="Física,Venezuela" data-listing-date-sort="1655848800000" data-listing-file-modified-sort="1707607603418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./episodes/e003/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="episodes/e003/e003.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 03 - De la relatividad al perreo
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+1 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Física'); return false;">
@@ -271,8 +291,7 @@ Venezuela
 </div>
 </div>
 <div class="card-text listing-description">
-
-
+Jeinny Pérez es física y ha estudiado uno de los aspectos más desafiantes de esta ciencia…
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -283,15 +302,16 @@ Jun 22, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Biología,Venezuela" data-listing-date-sort="1655071200000" data-listing-file-modified-sort="1707600754660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="3" data-categories="Biología,Venezuela" data-listing-date-sort="1655071200000" data-listing-file-modified-sort="1707607155695" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./episodes/e002/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="episodes/e002/e002.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 02 - De los virus al japonés
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+1 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Biología'); return false;">
@@ -302,8 +322,7 @@ Venezuela
 </div>
 </div>
 <div class="card-text listing-description">
-
-
+Nuestra primera entrevista es con María Angélica Medina, bióloga especializada en Virologia. Nos cuenta cómo ha sido su carrera hasta llegar al doctorado, de lo cool que son…
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -314,15 +333,16 @@ Jun 13, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Biología,Física,Química,Matemática,Venezuela" data-listing-date-sort="1654466400000" data-listing-file-modified-sort="1707599693005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="4" data-categories="Biología,Física,Química,Matemática,Venezuela" data-listing-date-sort="1654466400000" data-listing-file-modified-sort="1707608911176" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./episodes/e001/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="episodes/e001/e001.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 01 - De esto no hay tesis
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+1 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Biología'); return false;">
@@ -342,8 +362,7 @@ Venezuela
 </div>
 </div>
 <div class="card-text listing-description">
-
-
+¡Bienvenidos!
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -593,6 +612,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
