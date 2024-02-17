@@ -1,6 +1,7 @@
 ---
 title: "01 - De esto no hay tesis"
 date: "2022-06-06"
+description: "¡Bienvenidos! ¿Quieres estudiar ciencia pero no sabes a dónde llegarás con esa carrera? ¿Cómo es el día a día de los científicos? Con esta iniciativa queremos mostrarte el lado humano de todos aquellos que hemos decidido hacernos profesionales en la ciencia, #ComunicaCiencia"
 author: 
   - name: Irina Formoso
   - name: Rubén Rojas
@@ -40,9 +41,4 @@ share:
 
 :::::::::::::: 
 
-¡Bienvenidos!
 
-¿Quieres estudiar ciencia pero no sabes a dónde llegarás con esa carrera? ¿Cómo es el día a día de los científicos?
-
-Con esta iniciativa queremos mostrarte el lado humano de todos aquellos que hemos decidido hacernos profesionales en la ciencia,
- #ComunicaCiencia
