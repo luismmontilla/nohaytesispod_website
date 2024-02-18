@@ -8,5 +8,15 @@
       "/episodes/e002/index.html",
       "/episodes/e001/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/episodes/e005/index.html",
+      "/episodes/e004/index.html",
+      "/episodes/e003/index.html",
+      "/episodes/e002/index.html",
+      "/episodes/e001/index.html"
+    ]
   }
 ]
