@@ -4,32 +4,26 @@ sidebar: false
 feed: true
 contents: episodes
 theme: darkly.scss
+listing:
+    contents: episodes
+    max-items: 1
+    sort: date desc
 ---
-
-:::::{.columns}
-
-
-::: {.column width="47.5%"}
-
-
-<iframe src="https://podlink.to/nohaytesispod?embed=true" allowfullscreen style="border-radius:3px" frameborder="0" height="900" width="400"></iframe>
-
-
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="47.5%"}
 
 ## Los científicos nos rebelamos
 
-
-
 Un podcast donde se habla de ciencias y también de Bad Bunny; donde los científicos nos cuentan el detrás de cámaras de su día a día. #ComunicaCiencia
 
-<iframe id='kofiframe' src='https://ko-fi.com/nohaytesispod/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='nohaytesispod'></iframe>
+Puedes escucharnos en:
 
+::: {layout-ncol=2 fig-align="center"}
+[![](gallery/availableonspotify.svg){width=300}](https://open.spotify.com/show/3wJv7aQgMW7NLfvqrGm3GE)
+
+[![](gallery/AvailableonYouTube-black-SVG.svg){width=300}](https://www.youtube.com/@nohaytesispod)
 :::
 
+Tambien puedes apoyarnos donando en Kofi: [![](https://storage.ko-fi.com/cdn/kofi1.png){width="25%"}](https://ko-fi.com/F1F5F19V7)
 
-:::::
+
+
+## Nuestro episodio más reciente:
