@@ -14,12 +14,10 @@ listing:
 
 Un podcast donde se habla de ciencias y también de Bad Bunny; donde los científicos nos cuentan el detrás de cámaras de su día a día. #ComunicaCiencia
 
-Puedes escucharnos en:
-
 ::: {layout-ncol=2 fig-align="center"}
-[![](gallery/availableonspotify.svg){width=300}](https://open.spotify.com/show/3wJv7aQgMW7NLfvqrGm3GE)
+[![](gallery/availableonspotify.png){width=300}](https://open.spotify.com/show/3wJv7aQgMW7NLfvqrGm3GE)
 
-[![](gallery/AvailableonYouTube-black-SVG.svg){width=300}](https://www.youtube.com/@nohaytesispod)
+[![](gallery/AvailableonYouTube-black.png){width=300}](https://www.youtube.com/@nohaytesispod)
 :::
 
 Tambien puedes apoyarnos donando en Kofi: [![](https://storage.ko-fi.com/cdn/kofi1.png){width="25%"}](https://ko-fi.com/F1F5F19V7)
