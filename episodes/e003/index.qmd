@@ -1,6 +1,7 @@
 ---
 title: "03 - De la relatividad al perreo"
 date: "2022-06-22"
+description: "Jeinny Pérez es física y ha estudiado uno de los aspectos más desafiantes de esta ciencia, la teoria de la relatividad. Ella nos explica cómo esto afecta nuestras vidas, cómo es el día a dia de un estudiante de física y cómo ha sido su trayectoria al cambiar de carrera."
 author: 
   - name: Jeinny Pérez
   - name: Irina Formoso
@@ -41,4 +42,4 @@ share:
 
 :::::::::::::: 
 
-Jeinny Pérez es física y ha estudiado uno de los aspectos más desafiantes de esta ciencia, la teoria de la relatividad. Ella nos explica cómo esto afecta nuestras vidas, cómo es el día a dia de un estudiante de física y cómo ha sido su trayectoria al cambiar de carrera
+

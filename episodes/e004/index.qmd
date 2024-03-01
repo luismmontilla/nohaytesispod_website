@@ -1,6 +1,7 @@
 ---
 title: "04 - De las nanopartículas al senderismo"
 date: "2022-07-04"
+description: "Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel."
 author: 
   - name: Jesús Campos
   - name: Irina Formoso
@@ -41,4 +42,4 @@ share:
 
 :::::::::::::: 
 
-Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel.
+
