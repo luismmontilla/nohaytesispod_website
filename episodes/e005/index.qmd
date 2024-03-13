@@ -3,6 +3,8 @@ title: "05 - De la estadística a los Oscars"
 date: "2022-07-18"
 description: "Pedro es matemático y si te has preguntando de qué sirven las matemáticas, con el no tardarás a entender. Desde datos deportivos hasta distribucion electrica urbana, Pedro nos cuenta como la matematica es una herramienta para explorar el universo."
 categories: [Matemática, Venezuela]
+license: "CC BY"
+lang: es
 image: "image.jpg"
 filters:
   - social-share

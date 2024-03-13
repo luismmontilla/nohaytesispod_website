@@ -11,6 +11,8 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Física, Venezuela]
+license: "CC BY"
+lang: es
 image: "image.jpg"
 filters:
   - social-share
