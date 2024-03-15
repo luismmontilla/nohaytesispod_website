@@ -7,7 +7,6 @@ author:
   - name: Irina Formoso
   - name: Rubén Rojas
     orcid: 0000-0003-0500-2841
-  - name: Luis Botello
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Biología, Venezuela]
