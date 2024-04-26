@@ -4,6 +4,7 @@ date: "2022-07-04"
 description: "Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel."
 author: 
   - name: Jesús Campos
+    orcid: 0009-0000-9729-0574
   - name: Irina Formoso
   - name: Rubén Rojas
     orcid: 0000-0003-0500-2841
@@ -43,5 +44,881 @@ share:
 :::
 
 :::::::::::::: 
+
+00:10 
+Hola, hola, aquí estamos con un nuevo episodio de De Esto No Hay Tesis. Me acompañan como siempre Luis Miguel Montilla, aka El Gocho y Rubén Rojas. Como invitado, vamos a tener a Jesús Campos, un licenciado en química de la Universidad Simon Bolívar, quien nos va a hablar de nanotecnología, de su vida en Suecia y de cómo ser interdisciplinario es algo bueno para tu carrera. 
+
+00:34 
+Además, nos va a echar ese chisme de cómo es eso de que se lleva a conocer gente de los premios Nobel. Así que está súper interesante y espero que lo disfruten. En verdad, yo tengo una relación como amor-odio con la química. 
+
+00:48 
+Me parece fascinante, pero la verdad es que en bachillerato, en la secundaria, es súper, súper mega común que la gente se lleva super mal con la química. Yo creo que fácil es la materia más odiada de todo bachillerato. 
+
+01:01 
+Entonces yo te tengo una pregunta. ¿Ser químico se hace o se nace? Así vamos a ponernos filosóficos y tal. 
+
+01:09 
+Hola chicos, bueno, de entrada gracias por la invitación, de verdad que encantado de apoyar este bonito proyecto. 
+
+01:16 
+Cómo no, cómo no. Gracias a ti. 
+
+01:18 
+Bueno mira, de entrada creo que ser químico se hace, te digo, yo también tuve esa terrible relación con la química al principio, obviamente en 9º grados si tuve cierta, me llamó mucho la atención lo que eran los libros, leía bastante el libro y tal, pero ya en cuarto año de bachillerato, de verdad que no entendía nada porque ya era más que todo nomenenclatura, fórmula y después en quinto año de bachillerato fue horrible porque era de hidrocarburos y química orgánica, yo cuando entré en la carrera de química en la Simón yo dije bueno me voy a llevar mal con la química orgánica y terminé siendo orgánico, pero efectivamente es algo que, o sea, lo que me atrapó en la química fue la curiosidad y la... 
+
+02:07 
+No, eso, eso, cuéntame más de eso porque me dijiste que te costaba el principio, ¿no? Y que cuarto año fue horrible y tal, pero y después de repente, y ¿qué haces aquí estudiando en la universidad entonces? 
+
+02:16 
+¿Cómo te dió, cómo diste ese salto? Bueno, bueno, vamos a dedicarnos a esto, pues. 
+
+02:23 
+Bueno, fíjate que ya yo por tercer año, yo tenía una inclinación por la ingeniería, pero ya yo sabía que por lo menos ingeniería mecánica tenía fallas en lo que es el dibujo, era muy flojo para el dibujo técnico, entonces ya por ahí descartado. 
+
+02:37 
+Después de ingeniería eléctrica, peor que la química en física de bachilleratos con los circuitos. Y entonces me llamó la atención la ingeniería de petróleos y bueno, yendo al grano, después fue la ingeniería química y después mi papá me dijo, él tuvo mucho que ver en esto, él me dijo mira o sea, este coye tú tienes un gran potencial y todo eres un chamo, o sea como lo llaman uno los padres, un chamo inteligente y tal, siempre con buen estima. 
+
+03:07 
+Entonces si te llamaría la atención la química, entonces yo ahí me puse a investigar un poquito más los pénsum, la simón, fui a un, como se llama esto, un Info Carrera, y de verdad que me atrapé allí un poco, porque lo que me dijo es si estudias química después vas a entender el, la ingeniería se te va a hacer más sencillo. 
+
+03:30 
+Para la gente que nos está escuchando el Info Carrera es así como una feria, una feria de carrera donde hay como stands de todas las carreras pueden por así decirlo y se hacen experimentos y cosas y es bastante interactivo para y se invita gente de afuera. 
+
+03:42 
+Y una pregunta. En este caso qué te hizo decidirte por la licenciatura química que es más científica y no por la ingeniería química, ya que traes como esa inclinación hacia la ingeniería. 
+
+03:55 
+Efectivamente yo al principio sí puse ingeniería química y después puse licenciatura en química y después ingeniería de petróleo pero después cuando uno le toca decidirse si me di cuenta de como te digo leyendo los pensum eso es importante una recomendación que yo cuando vaya a estudiar una carrera agárrate los pensus compara porque a veces el nombre como quien dice vende vende mucho y no es realmente lo que es. 
+
+04:26 
+Es engañoso, totalmente 
+
+04:28 
+Y entonces comentaste que tu papá como de alguna forma te orientó o te motivó. Eso quizás es que en tu niñez como que tú ya mostrabas alguna fascinación o algo así por eso. O sea, no sé, tipo estos kits de laboratorio que le daban a uno de niños o la heladería Kreisel, algo así. 
+
+04:44 
+¿No se, tu tenías algo así? O como que tú ni pendiente hasta que ya te llegó el momento de escoger la universidad. 
+
+04:51 
+Sí, sí, fíjate que con todo eso, que es la típica historia de un químico, conmigo, nada, nada, que ver. Fue al final de Bachillerato todo. 
+
+05:03 
+¡Qué cool! Y entonces, bueno, una vez que ya empezaste en la Simón Bolívar ya con todos, todos sabemos que la Simón es bastante fuerte. Entonces, ¿qué fue algo que realmente te pareció un reto durísimo dentro de la carrera? 
+
+05:16 
+Y por el otro lado, ¿cuál fue un momento donde tú dijiste, no vale Esto es increíble, esto es lo mío? 
+
+05:23 
+Sí ¿ en qué momento te consolidaste, ya dijiste sí, aquí estoy? 
+
+05:30 
+Pocos saben, la gente cree que tuve un índice perfecto, una carrera perfecta. Y realmente yo el primer trimestre lleve el primer golpe con lenguaje 3 por un tema de comunicación. Entonces, pero cuando vi las matemáticas supieras que yo dije coño, ¿será que lo mío es matemática o será que lo mío es física? 
+
+05:50 
+Después cuando vi física también, a pesar de que clave es la primera. 
+
+05:53 
+¿Te gustó, te gustó entonces? 
+
+05:55 
+Sí, pero cuando cuando vi química como dice ella, yo ahí, eso fue un clic. Literal, eso fue un click de que el primer examen fue el primer examen que había reventado en toda la carrera. 
+
+06:10 
+Esta vez buena nota. 
+
+06:13 
+Y ya por ahí yo dije, coye, como que las cosas van bien. Igual el laboratorio, uff. Encantado de estar en un laboratorio, porque como te digo, lo que me atrapó también de la química fue la curiosidad de que para mí la química en Bachillerato también fue como un enorme agujero negro de ignorancia, vamos a decir. 
+
+06:32 
+Muy interesante, muy interesante de eso que a pesar de que no tuviste una química tan buena en bachillerato, bueno finalmente lo descubriste al final y hiciste ese click, y ese click creo que es fundamental sobre todo en carreras científicas que requieren como que más pasión y más querer, como que sentirte muy identificado con lo que estás estudiando, ese click me parece fundamental y creo que es algo como que todos tenemos que buscar dentro de nuestra carrera. 
+
+06:55 
+Sí, yo creo que tienes razón que decías que, por ejemplo, uno en bachillerato, uno está todo el tiempo haciendo química en la pizarra, en la pizarra. Y los laboratorios, si acaso, si tienes suerte, vas a tener algún laboratorio por ahí. 
+
+07:08 
+Pero claro, ya cuando estás en la universidad que tienes más recursos y tal, al menos si te dan un buen laboratorio, coye uno de verdad ve lo que estás viendo en el pizarrón, lo ves en las reacciones, ves lo que está pasando. 
+
+07:20 
+Y la verdad es que sí, es súper interesante. 
+
+07:24 
+Sí, sin duda. Bueno, entonces aquí, bueno, nosotros obviamente estamos leyendo un poco sobre lo que tú venías desarrollando en el pregrado. Entonces llegamos, por supuesto, a tu tesis. Y bueno, estamos viendo que tú estás trabajando aquí, mencionando como las palabras claves, compuestos fluorescentes y fármacos, qué nos puedes contar sobre eso muy brevemente o muy sencillo. 
+
+07:49 
+Bueno, fíjate que algo muy bonito de la Simón es el grupo B5IDA dirigido por el experto en nanotecnología, uno de los expertos en Venezuela, Marco Sabino. Entonces él trabaja con un sistema de deliberación de medicamentos, de fármacos. 
+
+08:08 
+Y esto es algo muy bonito porque tú puedes encapsular un fármaco y mejorar la eficiencia de una terapia ahí y llevarlo de una forma localizada al tejido en cuestión o el tejido. 
+
+08:22 
+Ahí te voy a parar para preguntarte a qué te refieres con eso de localizar y liberar el fármaco. ¿Es como una típica píldora que tú te tomas y eso lo libera en tu cuerpo o de qué se trata exactamente? 
+
+08:34 
+Bueno, se trata de que, imagínate que el fármaco está en una cápsula y esta cápsula es especial porque tiene la capacidad de reconocer un target o un blanco debido a interacciones, afinidades químicas, ¿no? 
+
+08:50 
+A las propiedades químicas que tenga este transportador. Y entonces eso es lo que hace que sea fin, por ejemplo, a células o a tumores o que sea fin a ciertas enfermedades como por ejemplo la tuberculosis. 
+
+09:02 
+Y me estás diciendo que la cápsula es atraída hacia el compuesto y después se libera, se rompe esa cápsula y lo que está dentro es como que lo que realmente actúa y ataca este tumor, ese sería el proceso más o menos. 
+
+09:16 
+Correcto pero decimos cápsula para para hacerlo es lo más entendible posible no es literalmente si no es literalmente 
+
+09:24 
+No es una cápsula ¿qué es en tu caso? 
+
+09:27 
+Puede ser una esfera sólida u homogénea donde está el fármaco encapsulado. Puede también ser una cápsula que ahí sería una esfera hueca. 
+
+09:39 
+Pero ahora también te pregunto qué papel tiene esto de la fluorescencia en esta liberación de fármacos que te estabas estudiando. 
+
+09:46 
+Entonces esta fluorescencia es como una manera de seguir, de ver los compuestos dentro de donde los está aplicando. 
+
+09:54 
+Es una herramienta que te permite entenderlo. Obviamente dentro de las ambiciones, cuando uno discute con otros colegas, dentro de las ambiciones es que cuando entonces tú tengas la terapia a futuro, tú entonces también con fluorescencia, tú también puedes hacer ese seguimiento del fármaco en el tumor. 
+
+10:16 
+Es como ponerle un GPS, digamos. Tú quieres ver pa dónde se está moviendo tu molécula, pa dónde está yendo y la quieres ver. O sea, eso me parece que es lo más importante. Quieres ver qué está pasando.
+
+10:25 
+Y la puedes cuantificar. Cuando decimos que la queremos ver como un GPS ya eso es, eso es más adelante, pero al principio es cómo la podemos cuantificar. Exactamente, ¿dónde la podemos localizar en un cultivo? 
+
+10:43 
+Y otra pregunta, Jesús, tú en este caso nos estás contando, o bueno, me doy cuenta que hablas mucho de ejemplos de tumores, es porque tu tesis tiene alguna relación con cáncer o algo así. 
+
+10:54 
+Bueno, en mi tesis justamente el compuesto fluorecente que estudiamos era un compuesto antitumoral y antimalárico, pero nosotros no hicimos estudios, vamos a decir, especializados en cáncer. Nosotros nos especializamos en lo que es el sistema de síntesis de las nanopartículas en la escala obviamente nanométrica y la encapsulación posteriormente en colaboraciones con la liberación. 
+
+11:23 
+Bueno, y entonces esta investigación fue durante tu pregrado. Entonces ya pregrado listo y tú decidiste continuar tu carrera en la misma universidad, en la Simón Bolívar. Y bueno, te tengo un par de preguntas, ¿no? 
+
+11:34 
+Primero, ¿por qué quisiste seguir con una maestría y no con un doctorado? Y la segunda es, ¿por qué decidiste quedarte ahí? Sabes, y no solo por la problematica que tenemos ahorita en Venezuela, que bueno, lo común es que la gente se gradua y se vaya lastimosamente, sino que bueno, también hay mucha gente en el mundo académico que recomienda como que tú cambies de instituciones, como que para ser un buen científico es bueno que tú cambies de instituciones y que abras mentes y hagas contactos, etc. 
+
+12:04 
+Entonces bueno, ¿por qué decidiste quedarte ahí? 
+
+12:07 
+Exacto. ¿Qué pasó ahí? 
+
+12:08 
+¿Por qué decidí seguir con la maestría? Honestamente ya yo en terminando el pregrado ya estaba buscando el doctorado pero no se dió la oportunidad y bueno el profesor me dió el consejo de mira chamo con una maestría ya tienes las puertas mucho más abiertas que con una licenciatura así que este mira aquí está la tesis tenemos este proyecto y vamos a echarle entonces fue 50 -50 o 25 o 25 -50 amigos familia y todo 
+
+12:43 
+Tú ya estás apuntando un doctorado afuera o tú estás buscando, por ejemplo, en otra universidad de Venezuela, como la misma Universidad SImón Bolívar. 
+
+12:53 
+Estaba apuntando en Chile, estaba viendo por Chile las cosas, pero bueno no se dio la oportunidad. Pero no toqué muchas puertas tampoco, habré tocado como dos veces. Como en ese momento estaba estancado, le tenía a mí como el fracaso ¿sabes? 
+
+13:09 
+A intentarlo porque tú dices coño, será que me rechazan y no. 
+
+13:13 
+Un síndrome al impostor. 
+
+13:14 
+Sí, total. 
+
+13:16 
+Todos lo tenemos. 
+
+13:17 
+Todos lo tenemos. 
+
+13:21 
+Y también que yo siento que cuando uno está cómodo con un grupo de investigación uno se quiere quedar de por vida ahí, sabes, y es así como uno ya se imagina todo viejito ahí siguiendo haciendo la investigación como que si estabas como ahí pues mira en verdad y creo que en verdad fue una gran... 
+
+13:38 
+Y si la investigación estaba andando o ya bueno, aprovechas ese momento que tienes ahí, de verdad que sí. 
+
+13:43 
+Sí, además del talento del grupo y del profesor, talento impresionante, imagínate que todos sus tesistas seamos sus pupilos, eso da buen renombre y nos da muchas enseñanzas. El ambiente del grupo, lo que es los almuerzos navideños, los compartir por los cumpleaños, esa atención que tenemos uno con el otro, incluso siempre en todos los experimentos estamos como que acompañados y dándonos apoyo, se verá que eso es algo que definitivamente atrapa. 
+
+14:17 
+Ahora bien, yo sí estaba apostando al doctorado en la misma Simón, yo de hecho un año antes de terminar la mestría yo le dije al profesor, mira tengo ganas de lanzarme como quien dice una sola tesis, porque yo decía, coño tres tesis chamo...
+
+14:35 
+Te iba a hacer esa pregunta como que para la maestría tú hiciste otra tesis y primero ¿eso se conecta alguna forma con la que hiciste antes? 
+
+14:44 
+tiene una conexión, sí, pero no, no, vamos a decir no tan, son primos, son primos pero no hermanos. 
+
+14:52 
+Son, primos lejanos ahí, no puedes contar así resumido como que qué hiciste. 
+
+14:57 
+Ok, para este caso de la maestría lo que quisimos enfocar el profesor y yo fue lo que es la técnica de síntesis de andamio. Entonces ¿qué son los andamios? Los andamios vamos a decir son estructuras químicas de una forma sencilla, son estructuras químicas que es como la arquitectura de un edificio que te permite hacer cultivo de células. 
+
+15:25 
+Y esto por qué es importante porque bueno tiene aplicaciones para cultivo celular y para regeneración de tejido. ¿Con qué tipo de andamios trabajamos nosotros? Pudimos trabajar con lo que se llama fibras o micronanofibras por electro spin. 
+
+15:43 
+Ya me volviste loca. 
+
+15:49 
+Yo iba bien hasta que llegó a electro spinning y ya me perdiste. Eso suena como la clase que tengo en el gimnasio y el electro spinning. Pero quería preguntarte, para hacer estos andamios yo leí que tú hacías como modificaciones en las moléculas ¿verdad? 
+
+16:07 
+Sí, porque, ok, porque de, ¿a qué va esto? Es como lo que te decía y tiene mucho que ver con, con, con lo anterior de la liberación de fármaco. Cuando tú funcionalizas y funcionalizar es darle función a algo. 
+
+16:24 
+Cuando tú funcionalizas esto vamos a decir, lo que compone el andamio con, con aminoácidos, nosotros los que buscamos es hacerlo más bioactivo. Más bioactivo es que haya un reconocimiento con las células, porque realmente lo que nosotros queremos como quien dice, bueno, no sé si estoy equivocado en esto, pero en la parte ya de la vida, no? 
+
+16:49 
+Huesped, este, las células serían, ya va, cuando tú invitas, la persona que invitas es huesped o no? Ya, ahí me enredé. Ya vaya. 
+
+16:58 
+Las células son el huésped. 
+
+17:00 
+Es la anfitrión. 
+
+17:02 
+Exacto. El andamio sería la anfitrión y el otro, y las células son huésped. Entonces tú quieres mejorar la relación entre anfitrión y huésped. Correcto. 
+
+17:13 
+Me suena que ya no te está gustando tal la química y te estás pasando como biología, ¿no? Yo creo que tú estabas mirando a otros lados. 
+
+17:22 
+Bueno, fíjate que cuando de verdad que hice la maestría yo dije bueno, todo lo que hacemos en el grupo, la aplicación es biomédica y evidentemente la biología es súper, súper importante porque si entienden la biología, entiendes a qué va todo esto y entiendes que no estás como quien dice disparando a la luna sin las bases, sino que sabes más o menos por qué lo estás haciendo. 
+
+17:51 
+Sólo admitelo de una vez y digo que la biología es la mejor ciencia. No, pero quería preguntarte algo porque, o sea, si estamos hablando de andamios y tal y como que uno tiene una idea de que es un andamio, porque bueno, uno vea los obreros montándose un andamio para que un edificio, etcétera. 
+
+18:10 
+Eso es todo lo que yo me he imaginado este tiempo. 
+
+18:17 
+Andamio es como que súper súper micro, ¿sabes?, a nivel de molécula a nivel súper micro. Y entonces yo, por ejemplo, quiero que me lleves a tu laboratorio, ¿verdad? ¿Cómo haces tú para ver esas moléculas, para saber que los cambios que tú estás haciendo están funcionando? 
+
+18:34 
+O que el andamio se te va a caer, ¿cómo tú sabes eso? 
+
+18:39 
+Ok, te entiendo. Bueno, primero vamos a transportarnos a la Simón Bolívar. Ok. 
+
+18:48 
+Y qué mira mi reina. Esto está muy difícil de explicar. Mejor te vienes a Suecia y te muestro. 
+
+18:51 
+No, no, no. Lo primero es que compone el andamio. Bueno, es un grupo especializado en polímero. Entonces, el andamio está la base química del andamio es polímero. Entonces, estamos en el laboratorio. Lo primero que hacemos es hacer una solución polimérica, ¿Ok? 
+
+19:11 
+Ok, un momento, un momento, qué es un polímero. 
+
+19:14 
+Ok, un polímero es una macromolécula que está compuesta por unidades repetitivas de una, vamos a decir, una molécula. 
+
+19:26 
+Ok, una molécula así, y repetida muchas veces y que formando, ¿qué es eso? un cilindro una cosa formando estructuras. 
+
+19:30 
+Formando una estructura que es una cadena. 
+
+19:34 
+Perfecto. Listo, listo. 
+
+19:37 
+Y bueno, cuando lo tienes en solución a medida que aumenta la cantidad de cadenas que tienes, aumenta la viscosidad. Entonces, una vez tenemos esta solución que es viscosa, vamos a decir como menos viscosa que una gelatina obviamente, pero como un yogur, como una miel. 
+
+19:58 
+Como un yogur, ok. Eso, eso. Algo muy bonito que tenemos nosotros en la Simón, que es que siempre nos relacionamos con los biólogos, con los electricistas y todo eso. Entonces, ahí nos vamos para alta tensión. 
+
+20:11 
+¿Vas con tu solución ahí? 
+
+20:13 
+No, con una cabita y bueno, con tu solución en un balón. Ok. Y a esa solución, lo que le aplicamos y lo que hacemos es vertirla o transferirla correcto a una inyectadora y aplicamos un alto voltaje entre la punta de una inyectadora, ¿verdad? 
+
+20:32 
+Y un plato colector. ¿Eso que nos va a formar? Nos va a formar cientos de fibras en este... y qué Pablo, este plato colector. Entonces... 
+
+20:46 
+Pero modifica las fibras de cierta manera, ¿no? Las modifica o la... 
+
+20:51 
+Bueno. Desde que la solución polimérica viaja desde la punta de la inyectadora hasta el plato colector. Ahí hay un proceso importante que es la evaporación, obviamente, del solvente. Porque si no ahí vas a tener en el plato, vamos a decir... 
+
+21:10 
+Imagínate un despelote, correcto. Muchas gotas por ahí dispersan, ¿no? Lo que tú quieres son fibras. Y estas fibras se ven como si fueran bidimensionales, pero realmente lo que llamamos los andamios que son trimensionales. 
+
+21:24 
+¿De aquí? ¿Ok? ¿Pá dónde nos vamos? De aquí nos vamos entonces para el laboratorio de superficies. 
+
+21:30 
+Te montas en el autobús, agarras la parada. 
+
+21:35 
+Aquí no vamos para el punto intermedio entre la alta tensión y la edificio química y nos quedamos entonces en el laboratorio de superficie y vamos al microscopio y ahí caracterizamos la morfología. Ahí vemos cómo se ve la forma de esta estructura. 
+
+21:57 
+Ahí básicamente ves si el andamio está choreto o si está derechito. 
+
+22:01 
+Correcto ahí vemos si si es lo que como están en los papers o si fue que nos que nos que nos cayeron a mentiras 
+
+22:10 
+Mieras eso, pero todo esto suena como lo que yo soñaba en bachillerato, que era la química y que tú mezclas compuestos, le pones electricidad, los pones en el microscopio, oseas estas combinando de todo un poco. 
+
+22:20 
+Sí, sí, sí. Fascinante, fascinante. 
+
+22:24 
+Bueno, y ya que tú tienes experiencia trabajando en laboratorio ABCD y todos con tensión eléctrica con químico, necesito que es hora de confesarte, ¿ok? Cuéntame, ¿qué es lo más caótico que te ha pasado en un laboratorio? 
+
+22:38 
+¿Cuándo hiciste un desastre que dijiste, ¡ay, Dios mío!, me voy a morir? 
+
+22:44 
+Bueno, este una vez de verdad que ya estaba como quien dice tercer año de carrera más o menos es un error imperdonable se me derramó ácido sulfúrico. Y en medio de el cómo se dice de la de la preocupación el estrés la cosa lo primero que hice fue agarrar unos toallines. 
+
+23:12 
+Y con estos toallines empecé a limpiar. Yo pensé ok. Yo dije bueno después voy a neutralizar la cuestión con una porque el ácido sulfúrico valga la redundancia a un ácido y bueno cuando tú tienes esto de rame tienes que neutralizar con una base. 
+
+23:27 
+Cuando limpio con con papel con toallines obviamente esto lo que hizo fue producir otra reacción que básicamente el papel se estaba desintegrando está volviendo un despelote al negro. Y bueno obviamente esto era súper caótico o peligroso porque desprende el CO2 y vapores de azufre también. 
+
+23:53 
+¿Y tu tenías guantes o tenías la mano ahí pelada? 
+
+23:56 
+No, tenía guantes claro, tenía guantes, guantes y lentes. Otra loquísima, tengo otra, esta fue la peor decisión de pana 
+
+24:09 
+Que bueno que los que trabajan contigo no hablan español, ¿no? entonces no se van a enterar de esto. 
+
+24:14 
+No, pero esto fue en Venezuela. 
+
+24:16 
+Sí, sí, por eso, pero los suécos ahorita no se van a enterar de esto. 
+
+24:19 
+No, no, no. Tranquilo. La otra fue una decisión de estas locas. Vamos a recordar lo que me preguntaste. ¿Cómo es la... 
+
+24:29 
+el día a día, no? Ok. Después de que nos fuimos... Este... Vamos a quedarnos con las partículas. Después de que nos fuimos de... laboratorio del microscopio. Nosotros nos podemos ir al IDEA, ¿verdad? 
+
+24:45 
+Que ahí hay este... 
+
+24:46 
+Que es otro instituto de investigación cerca. 
+
+24:48 
+Es un instituto, sí, un instituto de investigación que es vecino de la Simón Bolívar. 
+
+24:53 
+Ahí ese sí tienes que agarrar autobús.
+
+24:55 
+Sí. Ahí deberíamos agarrar autobús. Y tenemos unas soluciones, ¿verdad? Tenemos unos beakers, pero no los beakers obviamente no están llenos. Tenemos balones aforados con soluciones para hacer mediciones de fluorescencia. 
+
+25:10 
+¿Qué es lo que es? Para ver cómo decimos, ¿no? ¿Qué cantidades tenemos de nuestros compuestos? Entonces estamos en el IDEA. Y como vemos, el IDEA tiene caminos verdes. Desde la Simón al IDEA hay caminos verdes, que es como si hubiera una pequeña colina, ¿no? 
+
+25:28 
+Un atajo en el bosque
+
+25:29 
+Entonces el profesor me dice... una atajo en el bosque, totalmente. El profesor me dice, bueno, pero pídele el favor a alguien para que te lleve y como que te lleve con tus soluciones y todo eso. Y como realmente yo, bueno, si es una persona que, ¿sabes? No me quedo como quien dice en el aparato. La mayoría de mis amigos no tenían carro y tal. No sé qué. Yo dije, coño. Pero de aquí a que consiga alguien con carro que me lleve... Vamos a lanzarnos por los caminos verdes, voy a ver con este carajazo de.... 
+
+25:57 
+Soluciones. Por el bosque. Y ese día decisión fatal, o sea, primero iba perdiendo casi que la tesis en caminando por ese bosque que estábamos, había llovido. Y segundo, o sea, puedes correr el riesgo de caerte, hacerte daño con los vidrios rotos, ¿sabes? 
+
+26:21 
+No es solo perder la... fue una decisión como quien dice. 
+
+26:25 
+¿Pero los tenías la mano así o los tenías que ser una cava? 
+
+26:30 
+Los tenía en una cava, pero claro, cuando vas agarrando estas cosas, para que vean lo que a veces nosotros, detrás de cámara, el esfuerzo que le ponemos a las tesis, ¿no? Y bueno, pero bueno, llegué al IDEA y cuando hice todo mi experimento, me dijeron, mira, tienes que venir a recoger las cosas. 
+
+26:49 
+Yo dije, no, la pinga. Yo de esta, así que dejé todo eso allá. 
+
+26:55 
+Sí, ay no. Bueno, ¿y tienes alguna anécdota especial con algún experimento? No algo malo, pero algo que a lo mejor un día, un experimento que tú estabas esperando demasiado que te saliera, o durante el proceso de investigación, como que algo que disfrutaste muchísimo. 
+
+27:11 
+Bueno, definitivamente cuando hice mis primeras nanopartículas las preparé con una amiga que se llama Yubetsi y ella me entrenó. Evidentemente estaba muy emocionado porque tú decía, wow, estoy haciendo nanotecnología. 
+
+27:25 
+Estoy sabiendo, estoy en el área que había soñado un año antes. Y entonces, de verdad, eso me dejó muy marcado y después de ir al laboratorio con el profesor y ver tus partículas, o sea, es como si fueran no sé, unos hijos para ti.
+
+27:41 
+Y mira, qué tan... dices nanopartículas pero para esta...
+
+27:49 
+Mira mi partícula, que bella. Mamá, eres abuela.
+
+27:51 
+Qué tan nano es una partícula o sea qué significa cuando dices nanopartícula es porque es muy pequeña pero como que dame una escala dame un ejemplo de qué tan pequeños son estas partículas comparados con otras cosas que conozcamos. 
+
+28:07 
+imagínate, creo que a ver, un millón de veces más pequeño que el diámetro de un cabello. Si no me pelo cuando leí esto en Wikipedia. Sí, ahora bien, las partículas que trabajamos son de la escala de 100 o incluso 500 nanómetros. 
+
+28:33 
+Cuando trabajamos con nanopartículas poliméricas, este rango es amplio. Cuando tú dices nanopartícula, pueden ser de 100 hasta 500, como te digo. Pero si trabajas con nanopartículas inorgánicas, por ejemplo, el rango puede cambiar. 
+
+28:48 
+Eso depende de los autores, de los científicos, de cómo todos nos ponemos de acuerdo. Cada uno tiene su... Pero siempre el método científico tiene como quien dice su parámetro. 
+
+29:01 
+Sería algo así tipo más grande con átomo, si 
+
+29:04 
+Más grande que un átomo, más pequeño que una célula, correcto. 
+
+29:08 
+Ok, por ahí va la cosa. 
+
+29:10 
+Mira eso me sonó al Chapulin Colorado. 
+
+29:18 
+Bueno, y entonces tú aparentemente tú no te cansas de hacer tesis, tú vas de tesis en tesis en la vida. La tercera vencida. Sí, decidiste empezar entonces tu doctorado en Ciencias Biomédicas en la Universidad de Malmo, Suecia. 
+
+29:32 
+¿Cuánto tiempo tienes en el doctorado? 
+
+29:36 
+Bueno, tengo cinco meses y este es un doctorado de cuatro años Dios mediante. 
+
+29:42 
+¡Anotalo! 
+
+29:46 
+Sí, toca madera ahí. Y en este proceso de inmigración, qué fue difícil para ti, incluso dentro del ambiente científico o no, tipo, por ejemplo nos comentaste que tenías mucha afinidad con tu grupo de laboratorio anteriormente, entonces ¿cómo hiciste con ese cambio de inmigración? 
+
+30:04 
+¿Qué cosas te pareció difícil y qué cosas te parecieron finísimas, por ejemplo? Creo que si fueron 5 meses acabas de pasar tu primer invierno en Suecia, cuéntame ¿qué tal?
+
+30:15 
+Bueno, fíjate, yo estaba fascinado con venirme y experimentar un... Experimentar pasar frío. Alejarme de las playas, o sea, me pareció una idea que era fascinante. 
+
+30:28 
+En aquel momento ¿y ahora después del invierno? 
+
+30:35 
+Después del invierno todavía, pero de verdad que no fue fácil porque con esto de la pandemia, que pocos lo saben, yo perdí mi primer boleto de avión para venir para acá. 
+
+30:47 
+Bueno, tú dijiste, mira, si me fui caminando hasta el IDEA, me voy caminando hasta Suecia, pana. 
+
+30:53 
+correcto, correcto. Ahí no, toda mi familia, la familia de mi novia, amigos a la disposición, bueno y recaudé para comprar el segundo boleto. Y mi primera impresión, porque me llamaba la atención un cambio de clima, me gusta como que aventurar y tener otras, experimentar nuevas ideas y nuevos ambientes, ¿no? 
+
+31:17 
+Entonces, cuando llegué me sentí fascinado, de verdad que la primera semana me acostumbré al clima, no me afectó, esperaba algo como Canadá metído en un igloo, en el polo norte, sabes, pero no, sí me si me adapté excelentemente bien. 
+
+31:34 
+El grupo, evidentemente, bueno mi primera impresión en la universidad fue fascinante, porque un edificio, esta universidad es la más nueva de Suecia y cuando ves el edificio de investigación en ciencia biomédica, es un edificio totalmente nuevo, fascinado con el laboratorio, pero si algo importante, las personas, si evidentemente tu notas es el choque cultural bien fuerte, porque obviamente latino es una persona que integra y se integra y conoce gente en un autobús, comprando una malta, de mucha manera. 
+
+32:18 
+Y tienes alguna anécdota de ese choque cultural, no necesariamente con las personas, también puede ser con el clima o la comida o la cultura en general. 
+
+32:26 
+Sí, cómo es la comida. 
+
+32:27 
+Algo que tu dijiste como que Dios mío, qué bolas. 
+
+32:32 
+Bueno, la comida aquí es muy internacional. Si te digo que de la comida esperaba un poco más, pensé que la gastronomía sería un poco más amplia, pero realmente nada que ver es muy sencilla. Pero dentro de todo, bueno, hay muchos, como quien dice, comida internacional, comida de Italia, Croacia, de Bosnia. 
+
+32:58 
+¿Qué es esto? ¿Papa, pescado? 
+
+33:02 
+Bueno, de, por ejemplo, de Croacia, muchas carnes, muchos cerdo, muchos jamones, estos de calidad, jamón serrano, muchas, muchas de estas delicateses. Esto sí es bueno. 
+
+33:12 
+Ajá, eso ya iba a decir yo. ¿De qué te estás quedjando chamo? 
+
+33:19 
+Pero digo, pero de Suecia sí es más pescado, sabes, el salmón, esto que es super caro que ahorita no me acuerdo, pero son como huevitos de pescado que... 
+
+33:30 
+Caviar, sí, sí, caviar. 
+
+33:36 
+A mi me da risa que ellos dicen no, nuestra especialidad de aquí de Suecia es un arenque que quedas como que pudriéndose en una lata por tres años. 
+
+33:43 
+Ah pero tu te leiste... 
+
+33:44 
+Que asco, o sea, no. 
+
+33:48 
+Mira, y una pregunta, o sea, te ha pasado alguna especie de choque cultural, al inverso que tú haces algo que, de repente, tus demás amigos se que han extrañado de eso que estás haciendo, no sé, que algo para ti sea súper común. 
+
+34:00 
+Como por ejemplo que fuiste a saludar la primera sueca y le fuiste de un beso en el cachete y... y te salgó de un cachetada. 
+
+34:07 
+Bueno, fíjate, obviamente, a ver, uno viene con su esencia, ¿no? Claro. Y yo creo que yo he mantenido mi esencia, ¿sabes? Y eso se ha notado mucho, eso se nota. Pero sí, evidentemente, por lo menos algo que sí me parece que es un choque y trato de disminuirle un poco, es el contacto visual. 
+
+34:29 
+Uno como que es una persona muy dada a los saludos, ¿sabes? Y la persona, así te la encuentres 100 veces, 100 veces la saludas. Sí, sí. Aquí sí digo, como que a veces veo a la persona y haces contacto visual como una manera de, sabes, simpatía. 
+
+34:49 
+Sí. Y la persona sí se nota como que incomoda, ¿no? 
+
+34:51 
+Te entiendo completamente. 
+
+34:54 
+Y eso por ahí. 
+
+34:55 
+Eso para mí eso también fue un choque aquí en Estados Unidos pues porque además es un poco como no están Miami, no es tan latino, entonces eso es de mirar los ojos, una cosa tan sencilla como esa que uno la hacía, uno lo hace natural pues y no se da cuenta, aquí no, la gente va por el pastillo así y en vez de como que sabes como que, ¡epale, epale! 
+
+35:12 
+¿sabes que como que? Sí. Miran abajo. 
+
+35:16 
+A mi me da risa porque aquí por ejemplo es todo lo contrario aquí tú puedes estar en el metro y de pronto es alguien staring o sea como que viéndote fijamente como que a lo mejor está viendo la chaqueta o algo pero la persona está viendo así y como los tres segundos es como que yo no sé como pero porque esta gente me está viendo así vale que es eso. 
+
+35:35 
+Ah bueno, es al revés 
+
+35:37 
+Sí. Y en cuanto, por ejemplo, a cómo la gente en Suecia, bueno, apenas estás llegando, ¿no? O sea, todavía estás jojotico ahí llegando. Entonces, pero has notado diferencias en cómo la gente percibe a los científicos en Suecia. 
+
+35:52 
+Porque típico que en Venezuela yo decía, bueno, yo estudio biología y yo tenía dos reacciones. O sea, me decían como que, ay, qué lindos los animalitos que planta es esta cuéntame. O la gente me decía, no vale, pero tu lo que estás es loca. 
+
+36:06 
+De una, ¿no? Que vas a morirte de hambre, tú lo que estás es loca y tal. Esas eran las dos reacciones de la gente generalmente cuando uno le decía que estudiaba ciencia. Entonces, ¿cómo es en Suecia? 
+
+36:19 
+Bueno, a ver, con los suecos que he conocido, ¿verdad? Son de aquí de la universidad, así que vamos a decir que hablar de ellos es sesgar tu pregunta, la respuesta. Pero si la gente internacional, porque afuera, o sea, fuera la universidad he conocido gente internacional, si la gente como lo ve de una manera muy positiva. 
+
+36:44 
+Pero te digo algo, como tú dices, hay muchas dos reacciones, o es muy arrecho, o es como que es siempre un comentario negativo, aquí es como que igualdad, que tú seas científico, es igual de chevere, que tú seas el que limpia una calle, o el que trabaja en un supermercado, sabes como cajero. 
+
+37:08 
+Mira, dentro de este proceso de investigar un poco sobre ti, pues para la entrevista nos dimos cuenta, nos chismeamos por ahí que vas a participar en el 70 aniversario de las reuniones de premio Nobel en Lindau. 
+
+37:23 
+Entonces, bueno, primero para explicar a la gente qué es un premio Nobel, ¿no? Y de segundo, bueno, ¿cómo te enchufaste tu ahí? Pues aquí en... ¿Cómo? ¿Con quién hablaste? Echanos los cuentos, sí. 
+
+37:39 
+Un premio Nobel es aquella distinción científica que le dan a... Voy a decir científico, pero creo que en la historia hubo un premio Nobel que no es así. A una persona que tuvo una innovación que cambió el mundo totalmente, o que cambió la manera en que la ciencia, la biología, la química, fisiología, medicina, física iban, ¿sabes? 
+
+38:06 
+O también economía. Entonces, eso por ahí. Ahora bien, ¿cómo llegó esta oportunidad? Y antes que eso, ¿cómo yo supe de estas reuniones con 70, 80 premios Nobel? Yo en el 2011, empezando justamente la carrera, estaba viendo televisión con mi papá, y vemos unos jóvenes sentados con unos premios Nobel charlando y tomando, vamos a decir, el desayuno y tal, y yo decía, chamo, ¿verdad? 
+
+38:37 
+¿Qué es lo mejor que uno le puede pasar en el mundo? Y nada, cuando estando en la Simón, ahora hablando de cómo fue el proceso, el profesor Marco Sabino, él me llama y me dice, Jesús, y él le llegó a la profesora Úrsula Ehrmann, de Dirección de Relaciones Internacionales y de Cooperación, esta invitación en la que la Simón Bolívar, vamos a decir, es protagonista, ¿no? 
+
+39:04 
+Entonces, uno de los jóvenes de la Simón tiene la oportunidad de venir. Entonces, todos los profesores o cualquier profesor que está en investigación de la Simón puede postular un estudiante, el profesor me llamó a última hora para meter los papeles, los currículos, y básicamente lo que ellos ven, cuán interdisciplinario, es tu investigación, osea por ahí, viniendo del grupo, ya tenía unos buenos puntos ganados. 
+
+39:37 
+Claro, de todas esas caminatas, alta tensión, al otro. 
+
+39:41 
+Claro, claro, ya ahí lo merecía. Y lo otro es que seas una persona que tiene conexión con otras cosas, entonces por ahí tenía unas pasantías cubiertas y más que era ayudante académico de la Simón, también eso, vamos a decir, que todas esas cosas ayudan. 
+
+40:02 
+Entonces, ahí la Simón postuló a tres fuertes candidatos, 
+
+40:06 
+¿Pero te escogieron a ti nada más de esos tres? Bueno, felicitaciones. 
+
+40:12 
+Felicidades, ciertamente. Mira, y aquí hablando de interdisciplinariedad, cuando uno de estos premios Nobel te pregunta, bueno, mira, ¿qué haces tú en tu tiempo libre? ¿Qué le cuentas? 
+
+40:22 
+A mí me gusta mucho compartir con, bueno, cuando estaba en Venezuela con mi familia, con mi novia y también con mis amigos. O sea, yo soy una persona que apunta a cualquier tipo de actividad en grupo. 
+
+40:33 
+Entonces, por ejemplo aquí, este, por ejemplo, si voy a algún sitio, trato de hacer contacto, este, o si de casualidad conozco a alguien, esa persona tiene amigos, bueno, trato como que integrarme, ¿no? 
+
+40:46 
+Entonces, por lo menos aquí dentro de mis tiempos libres, voy de hiking, que eso es algo que es como, hiking es como quien dice hacer caminata o paseo largo. 
+
+40:55 
+Te gusta seguir caminando por el bosque. 
+
+40:57 
+Exacto
+
+41:01 
+Pero entonces, ¿te gusta mucho hacer cosas fuera de la casa? 
+
+41:05 
+Sí, sí. Total. Lo mío es como que estar fuera de la casa. No mucha computadora, no muchas películas, más que todo. Vamos a salir, agarro la bicicleta y bueno, también hago, me inscribí a un gimnasio y bueno, me gusta mantener esa parte que había abandonado y ahí superas que sí me relaciono bastante con la gente, o sea, hablo con la gente. 
+
+41:28 
+... que significa ¿todo bien? En sueco. Jag tränar ben, significa estoy entrenando piernas, y tal.
+
+41:41 
+Que risa tu familia, tu familia preguntándote que mi amor, háblame en sueco y tal. Y tú ahí diciéndole que estoy entrenando piernas, mamá. 
+
+41:48 
+Sí, porque es lo único que aprendí, de la poquita cosa que uno aprende. Sí. Y bueno, algo que no se van a imaginar. O sea, ¿cuántas veces creen ustedes que me han robado en Venezuela? ¿Cuántas veces creen que me han robado aquí? 
+
+42:02 
+No me digas que te robaron en Suecia. No, me digas eso. 
+
+42:04 
+No, me digas eso. 
+
+42:06 
+Pero saca cálculo en Venezuela cuántas veces. 
+
+42:09 
+Bueno, no sé, porque eso son cifras muy variables. 
+
+42:14 
+Lánza el número gocho, no séas tímido, yo digo cuatro. 
+
+42:17 
+Yo digo dos. 
+
+42:18 
+Ok, ok. Una. Sí. Y aquí en Suecia, aquí en Suecia me han robado, yo llamo robar así sea las luces de la bicicleta. Eso es robar y lo me han robado otra vez. Lo guantes. Las luces de la bicicleta y adivina cuál fué la última. 
+
+42:36 
+La cadena de la bicicleta 
+
+42:37 
+Y la bicicleta. 
+
+42:41 
+Chamo pero además tú todo inocente ahí tipo bueno sí yo vengo de Caracas a mí no me van a venir a joder aquí 
+
+42:47 
+Suecia de verdad que... y Malmö es una ciudad super tranquila tu puedes andar con tu laptop, tu puedes ir a tu laptop en una mesa, un café, pero lo que te van a robar es la bicicleta. 
+
+42:57 
+¿Pero qué es esto? 
+
+42:59 
+Vamos a imaginar un mundo paralelo donde no estudiaste química, ¿verdad? Entonces, si no fueras científico, ¿qué te gustaría haber estudiado? ¿Qué te gustaría hacer? O, por ejemplo, ¿te gustaría ser fútbolista del Real Madrid, por ejemplo? 
+
+43:12 
+Coño, total la pegaste. Si no fuera biólogo... Y qué biólogo, si no fuera químico y tuviera que escoger una carrera. Creo que hubiera escogido biología. 
+
+43:34 
+¿Y si no fuera ciencia en absoluto?
+
+43:36 
+Si no fuera ciencia la carrera sí vamos a decir de sueño, fútbol obviamente. Fútbol del Real Madrid. 
+
+43:47 
+¿Pero, si, sí jugabas entonces? 
+
+43:50 
+Bueno, sí, echaba mis caimaneras allá en canchas en la Simón 
+
+43:57 
+Sí, eso te iba a decir. Estos cuentos suenan a que tú siempre estabas en las competiciones entre los equipos, entre carreras y siempre dando la cara. 
+
+44:04 
+Sí, sí, sí. Dando la cara por Licenciatura en química, en esos 8 a 1, bueno, ahí estaba, mi aporte, un gol. 
+
+44:12 
+También te la pasas en el gimnasio, me dijiste. 
+
+44:15 
+Ahorita sí, gimnasio y bastante bicicleta. Bastante bicicleta. Gracias, Dios me compré la segunda. Me compré. Le compré tres cadenas para ver si se la van a llevar. 
+
+44:26 
+Y mira, como en la misma línea entonces, ¿crees que es importante como que, o sea, tener una parte física bien activa, cómo integras eso de mantenerse activo físicamente con la carrera, porque uno nos la pasa metido en el laboratorio, en tu caso, ¿no? 
+
+44:42 
+¿Qué tanta importancia le das a ese mantenerse, despejar un poco la mente, cómo integras esas dos cosas? 
+
+44:48 
+Bueno, mira, de verdad que es súper importante porque yo siempre lo digo, la carrera del científico es como la carrera de un futbolista. Es una carrera de alto rendimiento mental. Si tú te vas con todo y no te das tiempo de descanso, olvídate que terminas fusilado y terminas mal. 
+
+45:10 
+Bueno, entonces yo sí le doy importancia al descanso, a compartir con la gente y bueno, si da chance también, que ahorita claro, viviendo solo me da bastante chance de hacer ejercicio. Y yo creo que todos tenemos que tener un hobby para llevar eso por más apasionado que estés por tu trabajo, por tu estudio. 
+
+45:33 
+Sí, porque mucha gente en verdad conecta su hobby con su carrera. O sea, por ejemplo, apunta que yo soy bióloga y mi hobby es pintar, pero entonces voy a pintar puros animales, así super detallados y tal. 
+
+45:43 
+Y eso de cierta forma, como que también lo ayudan su crecimiento científico. Sí. Pero en tu caso tú dices como que no, mira, yo quiero desconectar totalmente de laboratorio. Totalmente. Y desestresarme y eso me va a ser como un mejor profesional en el laboratorio entonces. 
+
+45:58 
+Sí, me va a... me va a hacer sentir feliz, por lo menos lunes levantarme y decir, vamos al laboratorio, voy con ganas, pues. O un domingo, a mañana voy para el laboratorio. Pues no lo veo como este... 
+
+46:09 
+como de terror, ¿sabes? Lo veo como con mucha ganas. Claro, claro. 
+
+46:14 
+Mira, hace ratito que tú estás diciendo que esto te gustaba como interactuar con gente, integrarte con grupos y hacer actividades en grupo, yo me estoy imaginando que me vas a decir que estás en salsa casi en una cosa así típica de eso. 
+
+46:28 
+Bueno, aquí por ahora es los hiking. Es la mejor manera de conocer personas, de conocer otras nacionalidades. También latinos, Ucrania, Italia, Japón, China. 
+
+46:45 
+¿Tu eres el único latino en tu grupo? 
+
+46:48 
+Aquí en este edificio de aproximadamente 40 personas, somos tres venezolanos. Sí, sí. Dos estudiantes de doctorado, una amiga que está justamente aquí, también de la Simón del mismo grupo de investigación de donde venía. 
+
+47:08 
+La otra, una profesora. 
+
+47:12 
+¡Ah, bueno, mira qué orgullo! 
+
+47:13 
+Una de las, bueno, de los profesores más destacados de esta escuela de ciencias biomédicas. ¡Qué bueno! Y también, pero te voy a decir algo, más porcentaje de personas hablan español que sueco en este edificio. 
+
+47:31 
+Yo con mi inglés machucao no quiero ni que me hablen español, ¿sabes? Porque gente también de afuera de Irán, de Egipto, vienen y están aprendiendo español y tú dices, coño, porque no estás aprendiendo sueco. 
+
+47:51 
+No, es español. Y ellos se ponen contigo. Tú quieres hablar inglés y te quieren hablar español. 
+
+47:58 
+Entiendo, entiendo totalmente. Y mira, entonces ahora, ajá, te tengo ahora otra, otra preguntita. Porque bueno, me imagino que a veces de repente tampoco querrás ni estar en el laboratorio ni estar haciendo ejercicio ahí castigando el cuerpo. 
+
+48:11 
+Entonces, por ejemplo, ponte que tú quieras ponerte a leer. Te voy a pedir tres recomendaciones. A ver, qué libro te estás leyendo o qué libro te marcó, qué libro tú les recomendarías a alguien que se quiera leer. 
+
+48:24 
+Una película y la tercera una canción. La canción que más está sonando ahorita en tu plataforma favorita. 
+
+48:31 
+Cuando estás en el laboratorio de fondo. 
+
+48:32 
+Cuando estoy en el gym. 
+
+48:34 
+También. 
+
+48:36 
+Me voy a empezar por libros que recomendaría, aunque este es un peo todo loco, definitivamente 100 años de soledad te va a permitir entender un poco lo que es la literatura de un gran escritor. ¿Qué me estoy leyendo ahorita? 
+
+48:52 
+Por esto es que vamos a estar claro que aquí a veces pega la depresión y tal, no sé qué. Por lo menos yo no me ha pegado así, pero trato de alejarme de ella, trato de leerme un libro que me motive y me estoy leyendo. 
+
+49:06 
+Estoy empezando, el de Elon Musk. Tienes que ver con esto de las invenciones, tecnologitos. Pero sí el nombre del libro es así, es la biografía. 
+
+49:20 
+By Elon Musk, authorized by Elon Musk, editorial Elon Musk. ¿Y de canción y de canción? Tú tienes una pinta que te encanta de Daddy Yankee. Claro que sí. 
+
+49:35 
+Justamente iba a decir que la gente piensa que me gusta la música clásica y realmente me gusta mucho la bachata y el reggaeton. 
+
+49:47 
+¿Cuál es la bachata que más te gusta?
+
+49:47 
+Bueno, de Romeo, Confiésale. 
+
+49:52 
+Bachata en el gym, eso no me cuadra mucho ahí, Propuesta indecente, ahí haciendo bench press. 
+
+50:01 
+Te voy a decir algo. Aquí en el gym te das cuenta y aquí en Suecia la influencia latina es muy fuerte. En el gym ponen muchas, muchas canciones latinas. De verdad que sí. Y la que tengo así pegada es la que hice tú estás dura para seguir. 
+
+50:24 
+¿Y qué más? ¿película? 
+
+50:25 
+Y una película, tu película favorita. 
+
+50:27 
+A lo mejor influenciado por mi novia, pero favorita, Shrek. 
+
+50:33 
+¿Cuál es? 
+
+50:34 
+¡Ídolo! Claro que sí. Señores, ya terminamos esta entrevista en su píco. Ya. 
+
+50:42 
+Ahora que recomendaría, bueno, para ya que conectamos con que pues vamos a decir involucrar toda la entre todo este podcast, una no sé cómo se llama en español, pero es como que una mente hermosa, A Beautiful Mind, una mente brillante. Es de verdad hermosa.
+
+51:05 
+Mira, y nos comentaste que te encanta como salir y hablar con gente y tal. ¿Te gusta también tipo explicarles de química o cosas así? ¿Te preguntan cosas, la gente? 
+
+51:14 
+Sí, la gente, a ver, si te preguntan de, a ver, de qué va tu tesis y ya cuando vas a medio camino, como que es, como si entiendas, pero dicen, coño esto es...
+
+51:25 
+Se arrepienten
+
+51:25 
+Tú te emocionas en explicar todo y a veces obviamente lleva su tiempo. 
+
+51:36 
+Y esto no sólo en Suecia, pero también en donde has vivido, donde has viajado, que sé yo, pero qué es algo de la química, también en las noticias, por ejemplo, que es algo de la química que la gente usualmente entiende mal. 
+
+51:46 
+A mí, por ejemplo, me da risa a la gente que se la pase y que, ¡uy no! ¡Eso tiene químicos! Y luego, y que hay, me voy a poner unos implantes de Botox aquí y aquí y aquí. Es como bueno, mami, qué te estás metiendo. 
+
+51:59 
+Sí, sí, total. Me pasa con un compañero aquí de residencia que él es bastante quisquilloso con la comida, ¿no? Entonces, por lo menos yo compro un jugo de naranja y la típica es que la gente te dice, tú eres químico y deberías saber que es cancerígeno y todo esto. 
+
+52:19 
+¿Los tetrapack? 
+
+52:20 
+Sí. O si no es... 
+
+52:22 
+¿Son cancerígenos? Bueno, para esta gente... 
+
+52:25 
+Ya va ¿cómo es eso que los tetrapack son cancerígenos? 
+
+52:29 
+Pero yo creo que ese es el mal concepto que a veces tiene, bueno, por lo menos aquí la gente se alerta mucho. 
+
+52:37 
+Ok, ok, ok. Me asusté. 
+
+52:40 
+Ya, ya. Y bueno, ya para para ir finalizando un poquito, ¿no? Eh, en verdad creo que has avanzado mucho desde el momento que decidiste estudiar química. Y oye, la verdad es que todas las historias que nos contaste y todo tu proceso por la Simón, tu migración, tu llegar a Suecia, experimentar un nuevo país, un nuevo clima, todo suena como que has crecido, has crecido, tú ya, como ya le ves el queso a la tostada ahí más o menos, ¿no? 
+
+53:05 
+Sí. Sí, entonces ¿qué recomendación le darías a tu yo jóven o a una persona que quisiera seguir tus pasos y quisiera como, sí, en cuanto a estudios, en cuanto a carrera profesional, alguien que te pueda ver como un ejemplo a seguir, digamos. 
+
+53:20 
+personal. 
+
+53:21 
+Sí, bueno fíjate que el mayor ejemplo o la mayor anécdota de recomendación es hacer literal lo que te apasiona. Haz lo que te apasiona o si no haces lo que te apasiona por lo menos has otras cosas que te lleve a ese camino porque te das cuenta que con aquí nos ponemos filosóficos cuando la vida te pone muchos obstáculos en, no necesariamente en tu profesión, diversos obstáculos, si tú estás en tu pasión pana, vas a seguir hacia adelante. 
+
+53:57 
+Entonces no le pares a lo que te dice, vamos a decir tu profesor de bachillerato, lo que te dice la familia cuando te dice estás loco, vas a estudiar química física, biología, si es lo que te gusta, echa para adelante. 
+
+54:11 
+Si no te gusta nada de eso, si no que te gusta otra vaina, dale también con eso. El tráfico de bicicleta por ejemplo
+
+54:28 
+pero definitivamente hacer lo que te gusta es lo que te va a llevar a estar feliz, no a ser el mejor, a estar feliz. 
+
+54:36 
+Muy bien, muy bien, qué chévere. Bueno Jesús, de verdad muchas gracias por venir, te deseamos el mejor de los éxitos, espero que alumbres a todos esos premios Nobel en la reunión en Lindau, si es que se da con el corona, esperemos que sí... 
+
+54:51 
+Bueno, vale. Totalmente. 
+
+54:53 
+Muchas gracias de verdad 
+
+54:56 
+Bueno, este fue nuestro episodio con Jesús Campos, esperamos que les haya gustado muchísimo con ese poco de historias locas, pero además aprendimos que hay oportunidades que de verdad son únicas en la vida y hay que estar bien activos para poder aprovecharlas. 
+
+55:08 
+Por favor síganos en nuestras redes, @NoHayTesisPod en Twitter e Instagram, y obvio porfa, porfa recomienden el episodio a todos sus conocidos. Chao. 
 
 
