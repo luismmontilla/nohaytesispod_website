@@ -3,7 +3,6 @@ title: "BIENVENIDOS"
 sidebar: false
 feed: true
 contents: episodes
-theme: darkly.scss
 listing:
     contents: episodes
     max-items: 1
@@ -25,3 +24,4 @@ Tambien puedes apoyarnos donando en Kofi: [![](https://storage.ko-fi.com/cdn/kof
 
 
 ## Nuestro episodio más reciente:
+
