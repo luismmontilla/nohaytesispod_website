@@ -36,6 +36,8 @@ website:
         href: https://bsky.app/profile/nohaytesispod.bsky.social
       - icon: rss
         href: episodes.xml
+      - icon: rss
+        href: episodes.json
 
 format:
   html:
