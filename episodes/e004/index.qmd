@@ -5,7 +5,7 @@ description: "Jesús Campos es químico, aunque su pasión lo lleva a cruzarse c
 author: 
   - name: Jesús Campos
     orcid: 0009-0000-9729-0574
-    affiliations:
+    affiliation:
       - name: Malmö University
         country: Sweden
   - name: Irina Formoso
@@ -15,6 +15,7 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Química, Venezuela]
+doi: https://doi.org/10.59350/wwamb-97602
 license: "CC BY"
 lang: es
 image: "image.jpg"

@@ -10,6 +10,7 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Biología, Física, Química, Matemática, Venezuela]
+doi: https://doi.org/10.59350/ekary-0kh53
 license: "CC BY"
 lang: es
 image: image.jpg

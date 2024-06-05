@@ -4,7 +4,7 @@ date: "2022-06-13"
 description: "Nuestra primera entrevista es con María Angélica Medina, bióloga especializada en Virologia. Nos cuenta cómo ha sido su carrera hasta llegar al doctorado, de lo cool que son los virus y de las medidas de seguridad que requiere un trabajo así. Divagamos hasta sus hobbies y nos cuenta por qué aprendió japonés y de cómo la música de animé le da la motivación en sus maratones en el lab."
 author: 
   - name: Angélica Medina
-    affiliations: 
+    affiliation: 
       - name: Florida State University
         country: United States
   - name: Irina Formoso
@@ -13,6 +13,7 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Biología, Venezuela]
+doi: https://doi.org/10.59350/xqsj6-0ef79
 license: "CC BY"
 lang: es
 image: "image.jpg"
