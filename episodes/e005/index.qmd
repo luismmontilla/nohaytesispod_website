@@ -5,6 +5,9 @@ description: "Pedro es matemático y si te has preguntando de qué sirven las ma
 categories: [Matemática, Venezuela]
 author: 
   - name: Pedro Ovalles
+    affiliations:
+      - name: Simón Bolívar University
+        country: Venezuela
   - name: Irina Formoso
   - name: Rubén Rojas
     orcid: 0000-0003-0500-2841
