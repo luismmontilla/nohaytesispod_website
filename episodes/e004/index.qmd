@@ -15,7 +15,7 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Química, Venezuela]
-doi: https://doi.org/10.59350/wwamb-97602
+doi: 10.59350/wwamb-97602
 license: "CC BY"
 lang: es
 image: "image.jpg"

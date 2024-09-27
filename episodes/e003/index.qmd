@@ -13,7 +13,7 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 categories: [Física, Venezuela]
-doi: https://doi.org/10.59350/x95d7-31p15
+doi: 10.59350/x95d7-31p15
 license: "CC BY"
 lang: es
 image: "image.jpg"
