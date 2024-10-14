@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.55">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,7 +13,7 @@
 <meta name="author" content="Luis Montilla">
 <meta name="description" content="Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel.">
 
-<title>De esto no hay tesis - 04 - De las nanopartículas al senderismo</title>
+<title>04 - De las nanopartículas al senderismo – De esto no hay tesis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -98,11 +98,11 @@ cookieconsent.run({
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="De esto no hay tesis - 04 - De las nanopartículas al senderismo">
+<meta property="og:title" content="04 - De las nanopartículas al senderismo – De esto no hay tesis">
 <meta property="og:description" content="Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel.">
 <meta property="og:image" content="https://www.nohaytesispodcast.com/episodes/e004/image.jpg">
 <meta property="og:site_name" content="De esto no hay tesis">
-<meta name="twitter:title" content="De esto no hay tesis - 04 - De las nanopartículas al senderismo">
+<meta name="twitter:title" content="04 - De las nanopartículas al senderismo – De esto no hay tesis">
 <meta name="twitter:description" content="Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel.">
 <meta name="twitter:image" content="https://www.nohaytesispodcast.com/episodes/e004/image.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -123,7 +123,7 @@ cookieconsent.run({
     </a>
   </div>
             <div id="quarto-search" class="" title="Buscar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -154,7 +154,7 @@ cookieconsent.run({
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools tools-wide">
+            <div class="quarto-navbar-tools tools-wide">
     <a href="https://twitter.com/NoHayTesisPod" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
     <a href="https://www.instagram.com/nohaytesispod/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-instagram"></i></a>
     <a href="https://mast.lat/@nohaytesispod" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-mastodon"></i></a>
@@ -237,7 +237,7 @@ cookieconsent.run({
     <div class="quarto-title-meta-heading">Doi</div>
     <div class="quarto-title-meta-contents">
       <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.59350/wwamb-97602">https://doi.org/10.59350/wwamb-97602</a>
+        <a href="https://doi.org/10.59350/wwamb-97602">10.59350/wwamb-97602</a>
       </p>
     </div>
   </div>
@@ -589,18 +589,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -632,7 +621,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.nohaytesispodcast\.com\/");
@@ -640,7 +651,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
