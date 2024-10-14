@@ -1,0 +1,45 @@
+---
+title: "06 - De la física a la programación en Julia"
+date: "2024-10-15"
+description: "Miguel inició su trayectoria científica en la física, y en su camino, encontró en la programación una herramienta poderosísima que le ha permitido obtener una amplia visión del quehacer científico, y sobretodo del trabajo en comunidad. Acompáñanos a escuchar su historia."
+categories: [Física, México]
+author: 
+  - name: Miguel Raz Guzmán
+    affiliation:
+      - name: Universidad Nacional Autónoma de México
+        country: México
+  - name: Irina Formoso
+  - name: Rubén Rojas
+    orcid: 0000-0003-0500-2841
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+#doi: 10.59350/
+license: "CC BY"
+lang: es
+image: "image.jpg"
+filters:
+  - social-share
+share:
+  permalink: "https://www.nohaytesispodcast.com/episodes/e006/"
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+---
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](image.jpg)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+<iframe src="https://castbox.fm/app/castbox/player/id4697760/id744820909?v=8.22.11&autoplay=0&hide_list=1" frameborder="0" width="100%" height="500"></iframe>
+:::
+:::::::::::::: 
