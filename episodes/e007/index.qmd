@@ -14,7 +14,7 @@ author:
     orcid: 0000-0003-0500-2841
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-#doi: 10.59350/nf4yq-w5q71
+doi: http://doi.org/10.59350/r0a6w-bh463
 license: "CC BY"
 lang: es
 image: "image.jpg"
