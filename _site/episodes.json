@@ -164,8 +164,8 @@
     },
     {
       "id": "e006",
-      "doi": {},
-      "abstract": "Miguel inició su trayectoria científica en la física, y en su camino, encontró en la programación una herramienta poderosísima que le ha permitido obtener una amplia visión del quehacer científico, y sobretodo del trabajo en comunidad. Acompáñanos a escuchar su historia.",
+      "doi": "10.59350/nf4yq-w5q71",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e006",
       "title": "De la física a la programación en Julia",
@@ -178,6 +178,39 @@
             {
               "name": "Universidad Nacional Autónoma de México",
               "country": "México"
+            }
+          ]
+        },
+        {
+          "name": "Irina Formoso"
+        },
+        {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e007",
+      "doi": {},
+      "abstract": {},
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e007",
+      "title": "De los mosquitos a dirigir tu ONG",
+      "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2024-10-29",
+      "author": [
+        {
+          "name": "Gabriel Golczer",
+          "orcid": "0000-0001-9126-3305",
+          "affiliation": [
+            {
+              "name": "CAMP4 Therapeutics",
+              "country": "United States"
             }
           ]
         },
