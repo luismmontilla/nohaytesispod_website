@@ -1,7 +1,7 @@
 ---
 title: "07 - De los mosquitos a dirigir tu ONG"
 date: "2024-10-29"
-abstract: "Gabriel estudió biología y aunque no siempre compartió las mismas pasiones de la mayoría, pronto descubrió que hay muchas formas de poner en práctica esta carrera, y que sus otros intereses fueron alimentando su perfil profesional. Acompáñanos a conocer su historia."
+abstract: "Gabriel estudió biología y aunque no siempre compartió las mismas pasiones de la mayoría, pronto descubrió que hay muchas formas de poner en práctica esta carrera, y que sus otros intereses fueron alimentando su perfil profesional. Hoy en día balancea sus metas profesionales con el manejo de su organización para retribuir y apoyar a su Alma Mater"
 categories: [Biología, Venezuela]
 author: 
   - name: Gabriel Golczer
