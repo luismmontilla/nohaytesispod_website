@@ -3,36 +3,36 @@ title: "Nosotros"
 sidebar: false
 ---
 
-# Nuestra misión
+## Nuestra misión
 
 Derribar los estereotipos que rodean a la ciencia en Latinoamérica, a través de la humanización de la figura del científico y el acercamiento a la diversidad de profesiones científicas desde una perspectiva casual.
 
-# Nuestra visión
+## Nuestra visión
 
 Ser un medio accesible a todo publico, inclusivo y ameno en el que los profesionales en ciencia puedan darse a conocer como personas integrales, y mostrar la diversidad de perfiles que existen para las carreras científicas en el mundo académico y laboral.
 
-# Nuestro equipo
+## Nuestro equipo
 
-## Irina
+### Zlatka
 
 :::::{.columns}
-
-
 ::: {.column width="47.5%"}
 
-![](gallery/irina_orig.jpeg)
+![](gallery/zlatka.jpg)
 
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="47.5%"}
-Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.
+
+Zlatka es candidata a Doctor en Ciencias Ecológicas en Old Dominion University en Virginia, EEUU. Se graduó como bióloga en la Universidad Simón Bolívar, Venezuela. Actualmente, es parte del Laboratorio de Ecología de Plantas Costeras y Ecotonos [https://erikyando.weebly.com](https://erikyando.weebly.com/), donde estudia ecosistemas marinos y costeros con una perspectiva de ecología espacial. Además de su pasión por la biología, Zlatka se dedica a la divulgación científica, el voluntariado, el arte y la representación estudiantil, que forman parte integral de su día a día.
+
 :::
 
 
 :::::
 
-## Rubén
+### Rubén
 
 :::::{.columns}
 
@@ -50,26 +50,11 @@ El Físico del grupo. Dice que es de Caracas, pero es más isleño que la empana
 
 :::::
 
-## Quique
-
-:::::{.columns}
 
 
-::: {.column width="47.5%"}
-
-![](gallery/quique_orig.jpeg)
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="47.5%"}
-Luis "Quique" trabaja en electroquímica y fisicoquímica fundamental. Le gusta la música folklórica de latinoamérica y también el perreo. Siempre trata de afrontar cualquier tema con humor y curiosidad.
-:::
 
 
-:::::
-
-## Luis Miguel "el gocho"
+### Luis Miguel "el gocho"
 
 :::::{.columns}
 
@@ -86,4 +71,33 @@ Todos le dicen el gocho pero habla como Caraqueño. Creció en las montañas per
 :::
 
 
+:::::
+
+## Salón de la Fama
+
+Eventualmente los miembros del equipo pueden seguir adelante con nuevas aventuras y proyectos. Acá siempre recordamos sus contribuciones y el trabajo que compartimos, y ¿quién sabe? Quizás los veremos luego como invitados para que nos actualicen sobre sus nuevos logros.
+
+### Irina
+
+:::::{.columns}
+::: {.column width="47.5%"}
+![](gallery/irina_orig.jpeg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.
+:::
+:::::
+### Quique
+:::::{.columns}
+::: {.column width="47.5%"}
+
+![](gallery/quique_orig.jpeg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Luis "Quique" trabaja en electroquímica y fisicoquímica fundamental. Le gusta la música folklórica de latinoamérica y también el perreo. Siempre trata de afrontar cualquier tema con humor y curiosidad.
+:::
 :::::
