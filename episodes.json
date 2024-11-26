@@ -173,7 +173,7 @@
       "date_published": "2024-10-15",
       "author": [
         {
-          "name": "Miguel Raz Guzmán",
+          "name": "Miguel Raz-Guzmán",
           "affiliation": [
             {
               "name": "Universidad Nacional Autónoma de México",
@@ -196,7 +196,7 @@
     },
     {
       "id": "e007",
-      "doi": "10.59350/r0a6w-bh463",
+      "doi": "http://doi.org/10.59350/r0a6w-bh463",
       "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e007",
@@ -211,6 +211,39 @@
             {
               "name": "CAMP4 Therapeutics",
               "country": "United States"
+            }
+          ]
+        },
+        {
+          "name": "Irina Formoso"
+        },
+        {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e008",
+      "doi": {},
+      "abstract": {},
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e008",
+      "title": "De la enfermería a los radiotelescopios",
+      "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2024-11-26",
+      "author": [
+        {
+          "name": "Heidy Quitián-Lara",
+          "orcid": "0000-0002-6786-8248",
+          "affiliation": [
+            {
+              "name": "University of Kent",
+              "country": "United Kingdom"
             }
           ]
         },
