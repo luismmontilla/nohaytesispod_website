@@ -4,7 +4,7 @@ date: "2024-10-15"
 abstract: "Miguel inició su trayectoria científica en la física, y en su camino, encontró en la programación una herramienta poderosísima que le ha permitido obtener una amplia visión del quehacer científico, y sobretodo del trabajo en comunidad. Acompáñanos a escuchar su historia."
 categories: [Física, México]
 author: 
-  - name: Miguel Raz Guzmán
+  - name: Miguel Raz-Guzmán
     affiliation:
       - name: Universidad Nacional Autónoma de México
         country: México
