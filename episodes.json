@@ -7,7 +7,7 @@
     {
       "id": "e001",
       "doi": "10.59350/ekary-0kh53",
-      "abstract": "¡Bienvenidos! ¿Quieres estudiar ciencia pero no sabes a dónde llegarás con esa carrera? ¿Cómo es el día a día de los científicos? Con esta iniciativa queremos mostrarte el lado humano de todos aquellos que hemos decidido hacernos profesionales en la ciencia, #ComunicaCiencia",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e001",
       "title": "De esto no hay tesis",
@@ -33,7 +33,7 @@
     {
       "id": "e002",
       "doi": "10.59350/xqsj6-0ef79",
-      "abstract": "Nuestra primera entrevista es con María Angélica Medina, bióloga especializada en Virologia. Nos cuenta cómo ha sido su carrera hasta llegar al doctorado, de lo cool que son los virus y de las medidas de seguridad que requiere un trabajo así. Divagamos hasta sus hobbies y nos cuenta por qué aprendió japonés y de cómo la música de animé le da la motivación en sus maratones en el lab.",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e002",
       "title": "De los virus al japonés",
@@ -65,7 +65,7 @@
     {
       "id": "e003",
       "doi": "10.59350/x95d7-31p15",
-      "abstract": "Jeinny Pérez es física y ha estudiado uno de los aspectos más desafiantes de esta ciencia, la teoria de la relatividad. Ella nos explica cómo esto afecta nuestras vidas, cómo es el día a dia de un estudiante de física y cómo ha sido su trayectoria al cambiar de carrera.",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e003",
       "title": "De la relatividad al perreo",
@@ -97,7 +97,7 @@
     {
       "id": "e004",
       "doi": "10.59350/wwamb-97602",
-      "abstract": "Jesús Campos es químico, aunque su pasión lo lleva a cruzarse con otras ciencias. Desde Suecia, nos cuenta sobre sus andanzas en el laboratorio, en la montaña, o con los premios Nobel.",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e004",
       "title": "De las nanopartículas al senderismo",
@@ -133,7 +133,7 @@
     {
       "id": "e005",
       "doi": "10.59350/v8prw-0ey64",
-      "abstract": "Pedro es matemático y si te has preguntando de qué sirven las matemáticas, con el no tardarás a entender. Desde datos deportivos hasta distribucion electrica urbana, Pedro nos cuenta como la matematica es una herramienta para explorar el universo.",
+      "abstract": {},
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e005",
       "title": "De la estadística a los Oscars",
@@ -165,11 +165,11 @@
     {
       "id": "e006",
       "doi": "10.59350/nf4yq-w5q71",
-      "abstract": {},
+      "abstract": "Miguel inició su trayectoria científica en la física, y en su camino, encontró en la programación una herramienta poderosísima que le ha permitido obtener una amplia visión del quehacer científico, y sobretodo del trabajo en comunidad. Acompáñanos a escuchar su historia.",
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e006",
       "title": "De la física a la programación en Julia",
-      "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
+      "content_text": "",
       "date_published": "2024-10-15",
       "author": [
         {
@@ -197,11 +197,11 @@
     {
       "id": "e007",
       "doi": "https://doi.org/10.59350/r0a6w-bh463",
-      "abstract": {},
+      "abstract": "Gabriel estudió biología y aunque no siempre compartió las mismas pasiones de la mayoría, pronto descubrió que hay muchas formas de poner en práctica esta carrera, y que sus otros intereses fueron alimentando su perfil profesional. Hoy en día balancea sus metas profesionales con el manejo de su organización para retribuir y apoyar a su Alma Mater",
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e007",
       "title": "De los mosquitos a dirigir tu ONG",
-      "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
+      "content_text": "",
       "date_published": "2024-10-29",
       "author": [
         {
@@ -230,11 +230,11 @@
     {
       "id": "e008",
       "doi": "https://doi.org/10.59350/nbmk2-9qs78",
-      "abstract": {},
+      "abstract": "¡Conoce a Heidy Quitián-Lara, la astroquímica que ha viajado por el mundo y ha dejado su huella en cada rincón! Desde México hasta Inglaterra, su pasión por la astrofísica y la astroquímica comenzó en la Universidad, cuando se dio cuenta de que los elementos químicos se forman en las estrellas. ¡Qué revelación!",
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e008",
       "title": "De la enfermería a los radiotelescopios",
-      "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
+      "content_text": "",
       "date_published": "2024-11-26",
       "author": [
         {
@@ -244,6 +244,39 @@
             {
               "name": "University of Kent",
               "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "name": "Irina Formoso"
+        },
+        {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e009",
+      "doi": {},
+      "abstract": "En este episodio hablamos con Claudia Falcón, una matemática cubana apasionada por la mecánica de fluidos. Compartió su experiencia venciendo el miedo a la investigación, su adaptación a nuevas culturas y su transición por diferentes campos gracias a las matemáticas. ¡Disfruten!",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e009",
+      "title": "De las olimpiadas matemáticas a las matemáticas del vino",
+      "content_text": "",
+      "date_published": "2024-12-10",
+      "author": [
+        {
+          "name": "Claudia Falcón",
+          "orcid": "0000-0001-6356-8216",
+          "affiliation": [
+            {
+              "name": "Wake Forest University",
+              "country": "United States"
             }
           ]
         },
