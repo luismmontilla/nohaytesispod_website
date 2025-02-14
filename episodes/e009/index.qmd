@@ -2,7 +2,7 @@
 title: "09 - De las olimpiadas matemáticas a las matemáticas del vino"
 date: "2024-12-10"
 #draft: true
-abstract: "En este episodio hablamos con Claudia Falcón, una matemática cubana apasionada por la mecánica de fluidos. Compartió su experiencia venciendo el miedo a la investigación, su adaptación a nuevas culturas y su transición por diferentes campos gracias a las matemáticas. ¡Disfruten! qn8Kb0AIPd89W2x7RI5U"
+abstract: "En este episodio hablamos con Claudia Falcón, una matemática cubana apasionada por la mecánica de fluidos. Compartió su experiencia venciendo el miedo a la investigación, su adaptación a nuevas culturas y su transición por diferentes campos gracias a las matemáticas. ¡Disfruten! qn8Kb0AIPd89W2x7RI5U "
 categories: [Matemática, Cuba]
 author: 
   - name: Claudia Falcón
@@ -34,6 +34,7 @@ share:
   email: true
   mastodon: true
 ---
+qn8Kb0AIPd89W2x7RI5U
 
 :::::::::::::: {.columns}
 
