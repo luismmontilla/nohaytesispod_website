@@ -2,6 +2,7 @@
   {
     "listing": "/episodes.html",
     "items": [
+      "/episodes/e010/index.html",
       "/episodes/e009/index.html",
       "/episodes/e008/index.html",
       "/episodes/e007/index.html",
@@ -16,6 +17,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/episodes/e010/index.html",
       "/episodes/e009/index.html",
       "/episodes/e008/index.html",
       "/episodes/e007/index.html",
