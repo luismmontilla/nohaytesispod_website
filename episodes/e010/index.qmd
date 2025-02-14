@@ -1,0 +1,35 @@
+---
+title: "10 - De la medicina"
+date: "2025"
+draft: true
+abstract: ""
+categories: [Matemática, Mexico]
+author: 
+  - name: Cynthia Castillo
+    orcid: 0000-0002-7481-9380
+    affiliation:
+      - name: Honeywell
+        country: Mexico
+  - name: Zlatka Rebolledos
+    orcid: 0000-0003-0428-1199
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+#doi: 
+license: "CC BY"
+lang: es
+image: "image.jpg"
+country-of-birth: Mexico
+filters:
+  - social-share
+share:
+  permalink: "https://www.nohaytesispodcast.com/episodes/e010/"
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+---
