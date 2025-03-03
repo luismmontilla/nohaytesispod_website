@@ -1,24 +1,25 @@
 ---
-title: "10 - De la medicina"
-date: "2025"
-draft: true
-abstract: ""
-categories: [Matemática, Mexico]
+title: "10 - De las larvas de corales a los nutrientes en los humedales"
+date: "2025-03-03"
+#draft: true
+abstract: "En el 2025 empezamos con algunas novedades. En este episodio te presentamos la nueva integrante de nuestro equipo, Zlatka, quien nos cuenta su
+día a día en su investigación y sus vivencias migrando durante la pandemia en 2021."
+categories: [Biología, Venezuela]
 author: 
-  - name: Cynthia Castillo
-    orcid: 0000-0002-7481-9380
-    affiliation:
-      - name: Honeywell
-        country: Mexico
-  - name: Zlatka Rebolledos
+  - name: Zlatka Rebolledo
     orcid: 0000-0003-0428-1199
+    affiliation:
+      - name: Old Dominion University
+        country: USA
+  - name: Rubén Rojas
+    orcid: 0000-0003-0500-2841
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 #doi: 
 license: "CC BY"
 lang: es
 image: "image.jpg"
-country-of-birth: Mexico
+country-of-birth: Venezuela
 filters:
   - social-share
 share:
@@ -33,3 +34,14 @@ share:
   email: true
   mastodon: true
 ---
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](image.jpg)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4uOS4JaZuszySJrL8Tt9k3?utm_source=generator&theme=0" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+:::::::::::::: 
