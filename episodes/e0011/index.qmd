@@ -13,7 +13,7 @@ author:
     orcid: 0000-0003-0428-1199
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-#doi: https://doi.org/10.59350/
+doi: https://doi.org/10.59350/qwd37-tay15 
 license: "CC BY"
 lang: es
 image: "image.jpg"
