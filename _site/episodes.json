@@ -31,65 +31,6 @@
       ]
     },
     {
-      "id": "e0010",
-      "doi": "https://doi.org/10.59350/rz5xv-tcj62",
-      "abstract": "En el 2025 empezamos con algunas novedades. En este episodio te presentamos la nueva integrante de nuestro equipo, Zlatka, quien nos cuenta su día a día en su investigación y sus vivencias migrando durante la pandemia en 2021.",
-      "language": "es",
-      "url": "https://www.nohaytesispodcast.com/episodes/e0010",
-      "title": "De las larvas de corales a los nutrientes en los humedales",
-      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
-      "date_published": "2025-03-03",
-      "author": [
-        {
-          "name": "Zlatka Rebolledo",
-          "orcid": "0000-0003-0428-1199",
-          "affiliation": [
-            {
-              "name": "Old Dominion University",
-              "country": "USA"
-            }
-          ]
-        },
-        {
-          "name": "Rubén Rojas",
-          "orcid": "0000-0003-0500-2841"
-        },
-        {
-          "name": "Luis Montilla",
-          "orcid": "0000-0002-7079-6775"
-        }
-      ]
-    },
-    {
-      "id": "e0011",
-      "doi": {},
-      "abstract": "Irina comienza otro capítulo, ahora como audiencia de nuestro podcast, pero antes nos cuenta sobre su día a día, y las complejidades de la evolución y de los procesos regulatorios en la industria farmacéutica.",
-      "language": "es",
-      "url": "https://www.nohaytesispodcast.com/episodes/e0011",
-      "title": "De los chigüires a las regulaciones farmacológicas",
-      "content_text": "NA\nNA\nNA\nNA\n",
-      "date_published": "2025-03-25",
-      "author": [
-        {
-          "name": "Irina Formoso",
-          "affiliation": [
-            {
-              "name": "Medpace",
-              "country": "Germany"
-            }
-          ]
-        },
-        {
-          "name": "Zlatka Rebolledo",
-          "orcid": "0000-0003-0428-1199"
-        },
-        {
-          "name": "Luis Montilla",
-          "orcid": "0000-0002-7079-6775"
-        }
-      ]
-    },
-    {
       "id": "e002",
       "doi": "10.59350/xqsj6-0ef79",
       "abstract": {},
@@ -353,28 +294,81 @@
       ]
     },
     {
-      "id": "e012",
-      "doi": {},
-      "abstract": "",
+      "id": "e010",
+      "doi": "https://doi.org/10.59350/rz5xv-tcj62",
+      "abstract": "En el 2025 empezamos con algunas novedades. En este episodio te presentamos la nueva integrante de nuestro equipo, Zlatka, quien nos cuenta su día a día en su investigación y sus vivencias migrando durante la pandemia en 2021.",
       "language": "es",
-      "url": "https://www.nohaytesispodcast.com/episodes/e012",
-      "title": "De la medicina",
-      "content_text": "NA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n---",
-      "date_published": "2025",
+      "url": "https://www.nohaytesispodcast.com/episodes/e010",
+      "title": "De las larvas de corales a los nutrientes en los humedales",
+      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2025-03-03",
       "author": [
         {
-          "name": "Cynthia Castillo",
-          "orcid": "0000-0002-7481-9380",
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199",
           "affiliation": [
             {
-              "name": "Honeywell",
-              "country": "Mexico"
+              "name": "Old Dominion University",
+              "country": "USA"
             }
           ]
         },
         {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e011",
+      "doi": "https://doi.org/10.59350/qwd37-tay15",
+      "abstract": "Irina comienza otro capítulo, ahora como audiencia de nuestro podcast, pero antes nos cuenta sobre su día a día, y las complejidades de la evolución y de los procesos regulatorios en la industria farmacéutica.",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e011",
+      "title": "De los chigüires a las regulaciones farmacológicas",
+      "content_text": "NA\nNA\nNA\nNA\n",
+      "date_published": "2025-03-25",
+      "author": [
+        {
+          "name": "Irina Formoso",
+          "affiliation": [
+            {
+              "name": "Medpace",
+              "country": "Germany"
+            }
+          ]
+        },
+        {
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e012",
+      "doi": {},
+      "abstract": "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo.",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e012",
+      "title": "Desastres como parte del oficio",
+      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2025-04-14",
+      "author": [
+        {
           "name": "Zlatka Rebolledos",
           "orcid": "0000-0003-0428-1199"
+        },
+        {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
         },
         {
           "name": "Luis Montilla",

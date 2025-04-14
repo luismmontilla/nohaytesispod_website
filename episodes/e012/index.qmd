@@ -5,13 +5,13 @@ date: "2025-04-14"
 abstract: "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo."
 categories: [Opisodio]
 author: 
-  - name: Zlatka Rebolledos
+  - name: Zlatka Rebolledo
     orcid: 0000-0003-0428-1199
   - name: Rubén Rojas
     orcid: 0000-0003-0500-2841
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-#doi: 
+doi: https://doi.org/10.59350/qzck4-b1y34 
 license: "CC BY"
 lang: es
 image: "image.jpg"
