@@ -1,0 +1,43 @@
+---
+title: "12 - Desastres como parte del oficio"
+date: "2025-04-14"
+#draft: true
+abstract: "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo."
+categories: [Opisodio]
+author: 
+  - name: Zlatka Rebolledos
+    orcid: 0000-0003-0428-1199
+  - name: Rubén Rojas
+    orcid: 0000-0003-0500-2841
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+#doi: 
+license: "CC BY"
+lang: es
+image: "image.jpg"
+#country-of-birth: Mexico
+filters:
+  - social-share
+share:
+  permalink: "https://www.nohaytesispodcast.com/episodes/e012/"
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+---
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](image.jpg)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6n6tJobVvo1O9Gpa0FIhTB??utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+:::::::::::::: 

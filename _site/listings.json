@@ -2,8 +2,9 @@
   {
     "listing": "/episodes.html",
     "items": [
-      "/episodes/e0011/index.html",
-      "/episodes/e0010/index.html",
+      "/episodes/e012/index.html",
+      "/episodes/e011/index.html",
+      "/episodes/e010/index.html",
       "/episodes/e009/index.html",
       "/episodes/e008/index.html",
       "/episodes/e007/index.html",
@@ -18,8 +19,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/episodes/e0011/index.html",
-      "/episodes/e0010/index.html",
+      "/episodes/e012/index.html",
+      "/episodes/e011/index.html",
+      "/episodes/e010/index.html",
       "/episodes/e009/index.html",
       "/episodes/e008/index.html",
       "/episodes/e007/index.html",
