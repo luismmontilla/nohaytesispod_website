@@ -18,6 +18,7 @@ doi: https://doi.org/10.59350/r0a6w-bh463
 license: "CC BY"
 lang: es
 image: "image.jpg"
+country-of-birth: Venezuela
 filters:
   - social-share
 share:

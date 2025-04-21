@@ -19,6 +19,7 @@ doi: https://doi.org/10.59350/nbmk2-9qs78
 license: "CC BY"
 lang: es
 image: "image.jpg"
+country-of-birth: Colombia
 filters:
   - social-share
 share:

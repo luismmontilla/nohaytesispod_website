@@ -1,5 +1,6 @@
 project:
   type: website
+  execute-dir: project
 
 website:
   title: "De esto no hay tesis"
@@ -8,6 +9,7 @@ website:
   favicon: favicon.ico
   open-graph: true
   cookie-consent: true
+  draft-mode: unlinked
   body-footer: |
     <!-- 100% privacy-first analytics -->
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
@@ -38,6 +40,9 @@ website:
         href: episodes.xml
       - icon: rss
         href: episodes.json
+
+execute:
+  freeze: auto
 
 format:
   html:

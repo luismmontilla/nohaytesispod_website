@@ -17,6 +17,7 @@ doi: 10.59350/x95d7-31p15
 license: "CC BY"
 lang: es
 image: "image.jpg"
+country-of-birth: Venezuela
 filters:
   - social-share
 share:

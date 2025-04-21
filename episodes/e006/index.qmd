@@ -17,6 +17,7 @@ doi: 10.59350/nf4yq-w5q71
 license: "CC BY"
 lang: es
 image: "image.jpg"
+country-of-birth: Mexico
 filters:
   - social-share
 share:
