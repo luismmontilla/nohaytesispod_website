@@ -1,0 +1,15 @@
+{
+  "hash": "8aa9f533a5b17794872263151b9dcd3f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: ¿Dónde están nuestros invitados?\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(leaflet)\nlibrary(rmarkdown)\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nlist.files(\"episodes/\", pattern = \"*.qmd\",recursive=TRUE, include.dirs = TRUE,\n            full.names = TRUE) |> \n  lapply(\\(x){\n    yaml_front_matter(x) |> \n  pluck(\"country-of-birth\")\n  }) |> \n  unlist()\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] \"Venezuela\" \"Venezuela\" \"Venezuela\" \"Venezuela\" \"Mexico\"    \"Venezuela\"\n [7] \"Colombia\"  \"Cuba\"      \"Venezuela\" \"Venezuela\"\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nven_rhi %>% \n  left_join(coords) %>% \n  leaflet() %>% \n  addTiles() %>%\n  fitBounds(~min(longitude), ~min(latitude), \n            ~max(longitude), ~max(latitude)) %>% \n  addCircleMarkers(color = rhi_col,\n                   fillOpacity = 1)\n```\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
