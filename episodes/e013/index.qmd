@@ -1,0 +1,50 @@
+---
+title: "13 - De la física médica al análisis de datos"
+date: "2025-06-16"
+draft: false
+abstract: "De niña que jugaba con números a campeona de olimpiadas de matemáticas, física e informática. De querer ser médica (hasta ver un hueso roto) a convertirse en divulgadora científica. Ganó oro en competencias nacionales, trabajó en bioinformática y desafió estereotipos en ingeniería. Hoy, como La Matemaga, enseña que las matemáticas son fascinantes."
+categories: [Matemática, México]
+author: 
+  - name: Cynthia Castillo
+    orcid: https://orcid.org/0000-0002-7481-9380
+    affiliation:
+      - name: Honeywell
+        country: Mexico
+  - name: Zlatka Rebolledo
+    orcid: 0000-0003-0428-1199
+    affiliation:
+      - name: Old Dominion University
+        country: USA
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+#doi: https://doi.org/10.59350/qwd37-tay15 
+license: "CC BY"
+lang: es
+image: "image.jpg"
+country-of-birth: Mexico
+filters:
+  - social-share
+share:
+  permalink: "https://www.nohaytesispodcast.com/episodes/e013/"
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+---
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](image.jpg)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1RSE613DEkYl1e3I56XNYC?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+:::::::::::::: 
+
