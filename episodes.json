@@ -295,7 +295,7 @@
     },
     {
       "id": "e010",
-      "doi": {},
+      "doi": "https://doi.org/10.59350/rz5xv-tcj62",
       "abstract": "En el 2025 empezamos con algunas novedades. En este episodio te presentamos la nueva integrante de nuestro equipo, Zlatka, quien nos cuenta su día a día en su investigación y sus vivencias migrando durante la pandemia en 2021.",
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e010",
@@ -324,18 +324,71 @@
       ]
     },
     {
+      "id": "e011",
+      "doi": "https://doi.org/10.59350/qwd37-tay15",
+      "abstract": "Irina comienza otro capítulo, ahora como audiencia de nuestro podcast, pero antes nos cuenta sobre su día a día, y las complejidades de la evolución y de los procesos regulatorios en la industria farmacéutica.",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e011",
+      "title": "De los chigüires a las regulaciones farmacológicas",
+      "content_text": "NA\nNA\nNA\nNA\n",
+      "date_published": "2025-03-25",
+      "author": [
+        {
+          "name": "Irina Formoso",
+          "affiliation": [
+            {
+              "name": "Medpace",
+              "country": "Germany"
+            }
+          ]
+        },
+        {
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
       "id": "e012",
-      "doi": {},
-      "abstract": "",
+      "doi": "https://doi.org/10.59350/qzck4-b1y34",
+      "abstract": "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo.",
       "language": "es",
       "url": "https://www.nohaytesispodcast.com/episodes/e012",
-      "title": "De la medicina",
-      "content_text": "NA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n---",
-      "date_published": "2025",
+      "title": "Desastres como parte del oficio",
+      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2025-04-14",
+      "author": [
+        {
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199"
+        },
+        {
+          "name": "Rubén Rojas",
+          "orcid": "0000-0003-0500-2841"
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e013",
+      "doi": "https://doi.org/10.59350/4wfq0-70r02",
+      "abstract": "De niña que jugaba con números a campeona de olimpiadas de matemáticas, física e informática. De querer ser médica (hasta ver un hueso roto) a convertirse en divulgadora científica. Ganó oro en competencias nacionales, trabajó en bioinformática y desafió estereotipos en ingeniería. Hoy, como La Matemaga, enseña que las matemáticas son fascinantes.",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e013",
+      "title": "De la física médica al análisis de datos",
+      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2025-06-16",
       "author": [
         {
           "name": "Cynthia Castillo",
-          "orcid": "0000-0002-7481-9380",
+          "orcid": "https://orcid.org/0000-0002-7481-9380",
           "affiliation": [
             {
               "name": "Honeywell",
@@ -344,8 +397,14 @@
           ]
         },
         {
-          "name": "Zlatka Rebolledos",
-          "orcid": "0000-0003-0428-1199"
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199",
+          "affiliation": [
+            {
+              "name": "Old Dominion University",
+              "country": "USA"
+            }
+          ]
         },
         {
           "name": "Luis Montilla",
