@@ -32,20 +32,31 @@ Zlatka es candidata a Doctor en Ciencias Ecológicas en Old Dominion University 
 
 :::::
 
-### Rubén
+### Juan Felipe
 
 :::::{.columns}
+::: {.column width="47.5%"}
+![](gallery/jf.jpeg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+Dicen que es Ingeniero de Sistemas, pero prefiere "Ingeniero de la vida". Aunque no tiene nada que ver con algas ni corales, siente una profunda conexión con las playas (quizá por lo de fluir con los datos). Navega a diario por las olas del mundo editorial y, cuando no está entre códigos o manuscritos, lo encontrarás volando —literalmente— o perdiéndose en algún rincón nuevo del planeta. Tecnología, ciencia y buen humor: así se resume su GPS personal.
+:::
+:::::
 
 
+### Nicolás
+:::::{.columns}
 ::: {.column width="47.5%"}
 
-![](gallery/ruben_orig.jpeg)
+![](gallery/nico.jpeg)
 
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="47.5%"}
-El Físico del grupo. Dice que es de Caracas, pero es más isleño que la empanada de cazón. Como es de Margarita tenía que hacer algo relacionado con el mar así que estudia mecánica de fluidos. Se encuentra terminando (eso dice cada año) su PhD en la Universidad de Maryland pero quiere irse a Europa para poder grabar este podcast en vivo con los demás. Como toda persona entrando en los 30 (aaaahh) está evaluando su carrera y este podcast surgió como un espacio para discutir, además de las cosas que todos amamos de la ciencia, las cosas que no. Con ello esperamos ayudarlos a ustedes también en esta travesía por el camino científico, bien sea si desean recorrerlo o si están embarcados como nosotros y quieren llegar ilesos al otro lado.
+Es comunicador (ciencias sociales). Disfruta observar y encontrar relaciones entre cosas. De ahí que le guste meterse en los icebergs de cualquier tema que le llame la atención. En su “juventud temprana” lo formaron Borges y Spinetta; Kusturica y Lanthimos… Cree que creció cuando lo comenzó a formar et al. Ama el internet: todos sus alcances, todas sus bifurcaciones. Durante el colegio y la universidad leía por gusto; ahora lee por deuda. Cree que le debe mucho al cine. Cree en los legados y las voluntades; el caos y la entropía; y, con eso de fondo, en la apertura del conocimiento, de la ciencia. Prefiere el café con panela (un edulcorante) y cree que el mundo sí cambió después de Harambe.
 :::
 
 :::::
@@ -89,6 +100,25 @@ Eventualmente los miembros del equipo pueden seguir adelante con nuevas aventura
 Irina estudió Biología en la Universidad Simón Bolívar de Caracas y se especializó en Evolución en la LMU de Múnich. Esta pasión por la diversidad se extiende a todo en su vida, y por eso le encanta aprender cosas nuevas de cualquier tema. Al dejar la academia para trabajar en la coordinación de estudios clínicos, empezó a preguntarse qué otras cosas se pueden hacer a través de la ciencia. Al ser de las personas que mandan notas de voz de 10minutos, era una clara apuesta para este proyecto, y ella feliz de curiosearle la vida a los científicos dentro y fuera de la academia.
 :::
 :::::
+
+### Rubén
+
+:::::{.columns}
+
+
+::: {.column width="47.5%"}
+
+![](gallery/ruben_orig.jpeg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+El Físico del grupo. Dice que es de Caracas, pero es más isleño que la empanada de cazón. Como es de Margarita tenía que hacer algo relacionado con el mar así que estudia mecánica de fluidos. Se encuentra terminando (eso dice cada año) su PhD en la Universidad de Maryland pero quiere irse a Europa para poder grabar este podcast en vivo con los demás. Como toda persona entrando en los 30 (aaaahh) está evaluando su carrera y este podcast surgió como un espacio para discutir, además de las cosas que todos amamos de la ciencia, las cosas que no. Con ello esperamos ayudarlos a ustedes también en esta travesía por el camino científico, bien sea si desean recorrerlo o si están embarcados como nosotros y quieren llegar ilesos al otro lado.
+:::
+
+:::::
+
 ### Quique
 :::::{.columns}
 ::: {.column width="47.5%"}
