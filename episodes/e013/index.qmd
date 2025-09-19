@@ -24,17 +24,25 @@ image: "image.jpg"
 country-of-birth: Mexico
 filters:
   - social-share
+  - open-social-comments
+mastodon_comments:
+  user: "nohaytesispod"
+  host: "mast.lat"
+  toot_id: "114695452013260757"
+bluesky_comments:
+  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3lrr2b2etnc2n"
 share:
   permalink: "https://www.nohaytesispodcast.com/episodes/e013/"
   description: "Escucha el nuevo episodio de De esto no hay tesis"
-  twitter: true
-  facebook: true
-  reddit: true
-  stumble: true
-  tumblr: true
-  linkedin: true
-  email: true
+  twitter: false
+  facebook: false
+  reddit: false
+  stumble: false
+  tumblr: false
+  linkedin: false
+  email: false
   mastodon: true
+  bluesky: true
 ---
 :::::::::::::: {.columns}
 
