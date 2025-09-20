@@ -1,7 +1,6 @@
 ---
 title: "11 - De los chigüires a las regulaciones farmacológicas"
 date: "2025-03-25"
-#draft: true
 abstract: "Irina comienza otro capítulo, ahora como audiencia de nuestro podcast, pero antes nos cuenta sobre su día a día, y las complejidades de la evolución y de los procesos regulatorios en la industria farmacéutica."
 categories: [Biología, Venezuela]
 author: 
@@ -14,23 +13,28 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 doi: https://doi.org/10.59350/qwd37-tay15 
-license: "CC BY"
-lang: es
-image: "image.jpg"
 country-of-birth: Venezuela
 filters:
   - social-share
+  - open-social-comments
+mastodon_comments:
+  user: "nohaytesispod"
+  host: "mast.lat"
+  toot_id: "114223219130915196"
+bluesky_comments:
+  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3ll7dhrlhlc2r"
 share:
   permalink: "https://www.nohaytesispodcast.com/episodes/e011/"
   description: "Escucha el nuevo episodio de De esto no hay tesis"
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   reddit: true
-  stumble: true
-  tumblr: true
+  stumble: false
+  tumblr: false
   linkedin: true
-  email: true
+  email: false
   mastodon: true
+  bsky: true
 ---
 :::::::::::::: {.columns}
 
