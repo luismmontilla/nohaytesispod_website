@@ -1,7 +1,6 @@
 ---
 title: "12 - Desastres como parte del oficio"
 date: "2025-04-14"
-#draft: true
 abstract: "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo."
 categories: [Opisodio]
 author: 
@@ -12,23 +11,27 @@ author:
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
 doi: https://doi.org/10.59350/qzck4-b1y34 
-license: "CC BY"
-lang: es
-image: "image.jpg"
-#country-of-birth: Mexico
 filters:
   - social-share
+  - open-social-comments
+mastodon_comments:
+  user: "nohaytesispod"
+  host: "mast.lat"
+  toot_id: "114341868880638048"
+bluesky_comments:
+  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3lmtzrud3p22a"
 share:
   permalink: "https://www.nohaytesispodcast.com/episodes/e012/"
   description: "Escucha el nuevo episodio de De esto no hay tesis"
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   reddit: true
-  stumble: true
-  tumblr: true
+  stumble: false
+  tumblr: false
   linkedin: true
-  email: true
+  email: false
   mastodon: true
+  bsky: true
 ---
 :::::::::::::: {.columns}
 
