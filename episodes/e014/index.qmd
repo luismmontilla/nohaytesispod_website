@@ -29,17 +29,17 @@ author:
         country: USA
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-#doi: 
+doi: https://doi.org/10.59350/tjr2b-ek246 
 country-of-birth: Chile
 filters:
   - social-share
   - open-social-comments
-#mastodon_comments:
-#  user: "nohaytesispod"
-#  host: "mast.lat"
-#  toot_id: "114695452013260757"
-#bluesky_comments:
-#  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3lrr2b2etnc2n"
+mastodon_comments:
+  user: "nohaytesispod"
+  host: "mast.lat"
+  toot_id: "115664185840076781"
+bluesky_comments:
+  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3m77b6w5clk2o"
 share:
   permalink: "https://www.nohaytesispodcast.com/episodes/e014/"
   description: "Escucha el nuevo episodio de De esto no hay tesis"
