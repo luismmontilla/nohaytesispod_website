@@ -29,7 +29,9 @@ author:
         country: USA
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-doi: https://doi.org/10.59350/tjr2b-ek246 
+doi: https://doi.org/10.59350/tjr2b-ek246
+license: "CC BY"
+lang: es
 country-of-birth: Chile
 filters:
   - social-share
