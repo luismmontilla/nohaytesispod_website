@@ -231,7 +231,7 @@
       "id": "e008",
       "doi": "https://doi.org/10.59350/nbmk2-9qs78",
       "abstract": "¡Conoce a Heidy Quitián-Lara, la astroquímica que ha viajado por el mundo y ha dejado su huella en cada rincón! Desde México hasta Inglaterra, su pasión por la astrofísica y la astroquímica comenzó en la Universidad, cuando se dio cuenta de que los elementos químicos se forman en las estrellas. ¡Qué revelación!",
-      "language": "es",
+      "language": {},
       "url": "https://www.nohaytesispodcast.com/episodes/e008",
       "title": "De la enfermería a los radiotelescopios",
       "content_text": "NA\nNA\nNA\nNA\n:::::::::::::: ",
@@ -264,7 +264,7 @@
       "id": "e009",
       "doi": "https://doi.org/10.59350/1pmyk-j4m48",
       "abstract": "En este episodio hablamos con Claudia Falcón, una matemática cubana apasionada por la mecánica de fluidos. Compartió su experiencia venciendo el miedo a la investigación, su adaptación a nuevas culturas y su transición por diferentes campos gracias a las matemáticas. ¡Disfruten!",
-      "language": "es",
+      "language": {},
       "url": "https://www.nohaytesispodcast.com/episodes/e009",
       "title": "De las olimpiadas matemáticas a las matemáticas del vino",
       "content_text": "NA\nNA\nNA\n:::::::::::::: ",
@@ -327,7 +327,7 @@
       "id": "e011",
       "doi": "https://doi.org/10.59350/qwd37-tay15",
       "abstract": "Irina comienza otro capítulo, ahora como audiencia de nuestro podcast, pero antes nos cuenta sobre su día a día, y las complejidades de la evolución y de los procesos regulatorios en la industria farmacéutica.",
-      "language": "es",
+      "language": {},
       "url": "https://www.nohaytesispodcast.com/episodes/e011",
       "title": "De los chigüires a las regulaciones farmacológicas",
       "content_text": "NA\nNA\nNA\nNA\n",
@@ -356,7 +356,7 @@
       "id": "e012",
       "doi": "https://doi.org/10.59350/qzck4-b1y34",
       "abstract": "En este episodio, exploramos los imprevistos y pequeños desastres que pueden ocurrir en el quehacer científico. Desde derrames químicos inesperados hasta accidentes en el campo. ¿Cómo se manejan estos incidentes? ¿Qué enseñanzas dejan? Acompáñanos en un recorrido entre lo divertido y lo didáctico para entender que, en la ciencia, hasta los errores pueden ser una oportunidad para descubrir algo nuevo.",
-      "language": "es",
+      "language": {},
       "url": "https://www.nohaytesispodcast.com/episodes/e012",
       "title": "Desastres como parte del oficio",
       "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
@@ -393,6 +393,63 @@
             {
               "name": "Honeywell",
               "country": "Mexico"
+            }
+          ]
+        },
+        {
+          "name": "Zlatka Rebolledo",
+          "orcid": "0000-0003-0428-1199",
+          "affiliation": [
+            {
+              "name": "Old Dominion University",
+              "country": "USA"
+            }
+          ]
+        },
+        {
+          "name": "Luis Montilla",
+          "orcid": "0000-0002-7079-6775"
+        }
+      ]
+    },
+    {
+      "id": "e014",
+      "doi": "https://doi.org/10.59350/tjr2b-ek246",
+      "abstract": "¿Qué pasa cuando una astrónoma decide que su misión no es solo explorar las estrellas, sino democratizar el conocimiento aquí en la Tierra? En este episodio, conversamos con Carla Toro, una mente fascinante que transitó de los observatorios en Chile a liderar proyectos de tecnología y acceso abierto en Wikimedia Chile.",
+      "language": "es",
+      "url": "https://www.nohaytesispodcast.com/episodes/e014",
+      "title": "De estudiar las estrellas a conectar saberes en Wikimedia",
+      "content_text": "NA\nNA\nNA\nNA\nNA\n:::::::::::::: ",
+      "date_published": "2025-12-05",
+      "author": [
+        {
+          "name": "Carla Toro Fernández",
+          "orcid": "0000-0002-0658-505X",
+          "affiliation": [
+            {
+              "name": "Wikimedia Chile",
+              "country": "Chile",
+              "ror": "https://ror.org/004dpkc57"
+            }
+          ]
+        },
+        {
+          "name": "Nicolás Mejía",
+          "orcid": "0000-0002-2376-6418",
+          "affiliation": [
+            {
+              "name": {},
+              "country": "Colombia"
+            }
+          ]
+        },
+        {
+          "name": "Juan Felipe Vargas",
+          "orcid": "0000-0002-9935-1593",
+          "affiliation": [
+            {
+              "name": {},
+              "country": "Colombia"
             }
           ]
         },
