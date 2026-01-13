@@ -1,0 +1,57 @@
+---
+title: "Dos nuevos caminos se intersectan con De Esto No Hay Tesis"
+date: "2026-01-13"
+#draft: true
+abstract: "En este primer episodio de 2026 de De Esto No Hay Tesis, damos la bienvenida a dos nuevos hosts: Nicolás y Juan. Conversamos sobre sus trayectorias en el mundo científico y editorial, cómo llegaron a este espacio y qué los motiva a escuchar y contar las historias que hay detrás de la investigación. Un punto de partida para los nuevos caminos del podcast."
+categories: [Venezuela, Colombia]
+episode: 015
+author: 
+  - name: Nicolás Mejía
+    orcid: 0000-0002-2376-6418
+    affiliation:
+      - name: 
+        country: Colombia
+  - name: Juan Felipe Vargas
+    orcid: 0000-0002-9935-1593
+    affiliation: 
+      - name: 
+        country: Colombia
+  - name: Luis Montilla
+    orcid: 0000-0002-7079-6775
+#doi: https://doi.org/10.59350/tjr2b-ek246
+license: "CC BY"
+lang: es
+#country-of-birth: 
+filters:
+  - social-share
+  - open-social-comments
+# mastodon_comments:
+#   user: "nohaytesispod"
+#   host: "mast.lat"
+#   toot_id: "115664185840076781"
+# bluesky_comments:
+#   post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3m77b6w5clk2o"
+share:
+  permalink: "https://www.nohaytesispodcast.com/episodes/e015/"
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: false
+  facebook: false
+  reddit: true
+  stumble: false
+  tumblr: false
+  linkedin: true
+  email: false
+  mastodon: true
+  bsky: true
+---
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](image.jpg)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4jHWNFVKetsJ4UExLjusbZ?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+:::::::::::::: 
