@@ -9,28 +9,28 @@ author:
   - name: Nicolás Mejía
     orcid: 0000-0002-2376-6418
     affiliation:
-      - name: 
+      - name: Universidad de La Sabana
         country: Colombia
   - name: Juan Felipe Vargas
     orcid: 0000-0002-9935-1593
     affiliation: 
-      - name: 
+      - name: Journals & Authors
         country: Colombia
   - name: Luis Montilla
     orcid: 0000-0002-7079-6775
-#doi: https://doi.org/10.59350/tjr2b-ek246
+doi: https://doi.org/10.59350/48hph-99x78
 license: "CC BY"
 lang: es
 #country-of-birth: 
 filters:
   - social-share
   - open-social-comments
-# mastodon_comments:
-#   user: "nohaytesispod"
-#   host: "mast.lat"
-#   toot_id: "115664185840076781"
-# bluesky_comments:
-#   post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3m77b6w5clk2o"
+mastodon_comments:
+  user: "nohaytesispod"
+  host: "mast.lat"
+  toot_id: "115885134911710323"
+bluesky_comments:
+  post_uri: "https://bsky.app/profile/nohaytesispod.bsky.social/post/3mcbf4o2gvk2l"
 share:
   permalink: "https://www.nohaytesispodcast.com/episodes/e015/"
   description: "Escucha el nuevo episodio de De esto no hay tesis"
