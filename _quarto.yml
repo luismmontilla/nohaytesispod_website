@@ -7,7 +7,7 @@ project:
 website:
   title: "De esto no hay tesis"
   site-url: https://www.nohaytesispodcast.com/
-  twitter-card: true
+  twitter-card: false
   favicon: favicon.ico
   open-graph: true
   cookie-consent: true
@@ -51,6 +51,8 @@ format:
     theme: [darkly, custom.scss]
     css: styles.css
     toc: false
+    template-partials:
+      - _partials/title-metadata.html
 
 
 
