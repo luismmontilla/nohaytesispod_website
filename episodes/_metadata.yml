@@ -1,0 +1,13 @@
+license: "CC BY"
+lang: es
+share:
+  description: "Escucha el nuevo episodio de De esto no hay tesis"
+  twitter: false
+  facebook: false
+  reddit: true
+  stumble: false
+  tumblr: false
+  linkedin: true
+  email: false
+  mastodon: true
+  bsky: true
