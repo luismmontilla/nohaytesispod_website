@@ -1,5 +1,9 @@
 license: "CC BY"
 lang: es
+citation:
+  type: broadcast
+  genre: podcast
+  container-title: De esto no hay tesis
 share:
   description: "Escucha el nuevo episodio de De esto no hay tesis"
   twitter: false
